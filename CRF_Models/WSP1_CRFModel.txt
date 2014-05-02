@@ -1,0 +1,3527 @@
+28
+
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink
+200
+21 person-institution/67
+21 person-institution/63
+21 person-institution/97
+21 person-institution/51
+21 person-institution/59
+21 person-institution/98
+21 person-institution/70
+22 person-institution/---
+21 person-institution/60
+21 person-institution/33
+20 person-institution/9
+21 person-institution/48
+21 person-institution/12
+21 person-institution/64
+21 person-institution/58
+21 person-institution/52
+21 person-institution/55
+21 person-institution/18
+22 person-institution/---
+21 person-institution/90
+23 person-institution/5451
+20 person-institution/6
+22 person-institution/103
+20 person-institution/6
+21 person-institution/47
+22 person-institution/107
+21 person-institution/35
+21 person-institution/10
+21 person-institution/57
+21 person-institution/27
+3 ---
+22 person-institution/103
+20 person-institution/3
+21 person-institution/27
+23 person-institution/9071
+21 person-institution/14
+22 person-institution/770
+21 person-institution/91
+21 person-institution/63
+21 person-institution/52
+20 person-institution/5
+20 person-institution/2
+21 person-institution/36
+21 person-institution/65
+21 person-institution/51
+21 person-institution/33
+3 ---
+21 person-institution/71
+21 person-institution/62
+20 person-institution/2
+21 person-institution/44
+20 person-institution/3
+21 person-institution/19
+21 person-institution/99
+21 person-institution/41
+21 person-institution/45
+3 ---
+21 person-institution/10
+21 person-institution/54
+22 person-institution/106
+21 person-institution/47
+21 person-institution/61
+21 person-institution/20
+21 person-institution/45
+3 ---
+21 person-institution/33
+21 person-institution/53
+22 person-institution/---
+21 person-institution/88
+21 person-institution/59
+21 person-institution/69
+21 person-institution/92
+21 person-institution/30
+56 person-institution/Frederic Remington-1861-1909-American
+21 person-institution/28
+21 person-institution/57
+3 ---
+21 person-institution/85
+22 person-institution/---
+21 person-institution/92
+22 person-institution/108
+21 person-institution/64
+20 person-institution/6
+21 person-institution/20
+21 person-institution/96
+21 person-institution/88
+22 person-institution/107
+21 person-institution/67
+21 person-institution/72
+22 person-institution/---
+21 person-institution/75
+22 person-institution/105
+21 person-institution/65
+21 person-institution/91
+21 person-institution/59
+22 person-institution/106
+21 person-institution/63
+24 person-institution/16131
+21 person-institution/77
+21 person-institution/25
+21 person-institution/40
+21 person-institution/43
+21 person-institution/50
+21 person-institution/68
+22 person-institution/---
+21 person-institution/67
+21 person-institution/28
+20 person-institution/3
+21 person-institution/62
+21 person-institution/84
+22 person-institution/105
+21 person-institution/63
+21 person-institution/77
+21 person-institution/81
+21 person-institution/27
+20 person-institution/7
+21 person-institution/17
+21 person-institution/44
+21 person-institution/27
+21 person-institution/58
+56 person-institution/Charles M. Russell-1864-1926-American
+21 person-institution/96
+3 ---
+66 person-institution/Frederick William MacMonnies-1863-1937-American
+22 person-institution/107
+21 person-institution/87
+56 person-institution/Charles M. Russell-1864-1926-American
+22 person-institution/105
+20 person-institution/4
+21 person-institution/98
+21 person-institution/15
+21 person-institution/70
+21 person-institution/84
+21 person-institution/26
+21 person-institution/35
+21 person-institution/89
+21 person-institution/71
+21 person-institution/37
+56 person-institution/Charles M. Russell-1864-1926-American
+21 person-institution/75
+22 person-institution/105
+20 person-institution/9
+21 person-institution/89
+21 person-institution/75
+22 person-institution/---
+21 person-institution/28
+21 person-institution/46
+21 person-institution/98
+21 person-institution/94
+21 person-institution/68
+21 person-institution/22
+21 person-institution/54
+51 person-institution/Joseph Stella-1877-1946-American
+22 person-institution/108
+21 person-institution/47
+21 person-institution/96
+21 person-institution/66
+21 person-institution/94
+21 person-institution/54
+23 person-institution/7109
+21 person-institution/16
+21 person-institution/10
+21 person-institution/36
+21 person-institution/85
+22 person-institution/101
+21 person-institution/65
+22 person-institution/104
+21 person-institution/91
+20 person-institution/2
+21 person-institution/11
+21 person-institution/70
+21 person-institution/13
+21 person-institution/69
+20 person-institution/5
+21 person-institution/45
+21 person-institution/22
+21 person-institution/66
+3 ---
+21 person-institution/30
+21 person-institution/77
+21 person-institution/17
+22 person-institution/100
+21 person-institution/67
+21 person-institution/72
+3 ---
+56 person-institution/Charles M. Russell-1864-1926-American
+21 person-institution/15
+21 person-institution/46
+21 person-institution/80
+21 person-institution/21
+22 person-institution/104
+21 person-institution/55
+21 person-institution/72
+21 person-institution/15
+22 person-institution/---
+21 person-institution/79
+21 person-institution/58
+56 person-institution/Charles M. Russell-1864-1926-American
+21 person-institution/49
+21 person-institution/65
+
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink
+200
+28 person-institution/100/birth
+27 person-institution/32/birth
+27 person-institution/53/birth
+27 person-institution/70/birth
+27 person-institution/72/birth
+27 person-institution/35/birth
+27 person-institution/79/birth
+27 person-institution/88/birth
+27 person-institution/64/birth
+28 person-institution/105/birth
+27 person-institution/18/birth
+27 person-institution/14/birth
+27 person-institution/53/birth
+27 person-institution/46/birth
+27 person-institution/91/birth
+27 person-institution/66/birth
+27 person-institution/38/birth
+27 person-institution/71/birth
+27 person-institution/32/birth
+27 person-institution/14/birth
+27 person-institution/66/birth
+27 person-institution/85/birth
+26 person-institution/6/birth
+27 person-institution/97/birth
+27 person-institution/92/birth
+27 person-institution/55/birth
+27 person-institution/51/birth
+27 person-institution/38/birth
+26 person-institution/5/birth
+27 person-institution/93/birth
+27 person-institution/47/birth
+27 person-institution/24/birth
+28 person-institution/107/birth
+27 person-institution/67/birth
+27 person-institution/49/birth
+27 person-institution/94/birth
+27 person-institution/79/birth
+27 person-institution/32/birth
+27 person-institution/15/birth
+27 person-institution/67/birth
+27 person-institution/59/birth
+27 person-institution/29/birth
+27 person-institution/63/birth
+27 person-institution/11/birth
+27 person-institution/85/birth
+28 person-institution/100/birth
+27 person-institution/45/birth
+27 person-institution/71/birth
+28 person-institution/101/birth
+27 person-institution/94/birth
+28 person-institution/107/birth
+27 person-institution/59/birth
+28 person-institution/104/birth
+27 person-institution/61/birth
+27 person-institution/65/birth
+28 person-institution/107/birth
+27 person-institution/23/birth
+27 person-institution/69/birth
+27 person-institution/27/birth
+27 person-institution/20/birth
+27 person-institution/88/birth
+27 person-institution/30/birth
+27 person-institution/13/birth
+28 person-institution/103/birth
+27 person-institution/31/birth
+27 person-institution/81/birth
+27 person-institution/99/birth
+27 person-institution/18/birth
+27 person-institution/50/birth
+27 person-institution/55/birth
+27 person-institution/86/birth
+27 person-institution/29/birth
+28 person-institution/104/birth
+27 person-institution/46/birth
+28 person-institution/106/birth
+27 person-institution/75/birth
+27 person-institution/59/birth
+27 person-institution/59/birth
+27 person-institution/46/birth
+27 person-institution/69/birth
+26 person-institution/3/birth
+27 person-institution/35/birth
+27 person-institution/50/birth
+27 person-institution/70/birth
+27 person-institution/91/birth
+27 person-institution/49/birth
+27 person-institution/64/birth
+27 person-institution/75/birth
+27 person-institution/86/birth
+28 person-institution/104/birth
+27 person-institution/34/birth
+27 person-institution/62/birth
+27 person-institution/38/birth
+27 person-institution/25/birth
+27 person-institution/13/birth
+27 person-institution/28/birth
+27 person-institution/33/birth
+27 person-institution/86/birth
+27 person-institution/44/birth
+27 person-institution/55/birth
+27 person-institution/32/birth
+27 person-institution/60/birth
+27 person-institution/14/birth
+27 person-institution/16/birth
+27 person-institution/84/birth
+27 person-institution/51/birth
+27 person-institution/96/birth
+27 person-institution/22/birth
+27 person-institution/12/birth
+27 person-institution/16/birth
+28 person-institution/102/birth
+27 person-institution/37/birth
+27 person-institution/40/birth
+27 person-institution/48/birth
+27 person-institution/17/birth
+28 person-institution/105/birth
+27 person-institution/21/birth
+27 person-institution/39/birth
+27 person-institution/29/birth
+27 person-institution/49/birth
+27 person-institution/29/birth
+27 person-institution/26/birth
+27 person-institution/76/birth
+27 person-institution/91/birth
+27 person-institution/71/birth
+27 person-institution/72/birth
+27 person-institution/25/birth
+27 person-institution/90/birth
+27 person-institution/66/birth
+27 person-institution/36/birth
+27 person-institution/30/birth
+27 person-institution/86/birth
+27 person-institution/11/birth
+27 person-institution/24/birth
+27 person-institution/43/birth
+27 person-institution/94/birth
+27 person-institution/31/birth
+27 person-institution/26/birth
+26 person-institution/9/birth
+27 person-institution/52/birth
+26 person-institution/5/birth
+27 person-institution/20/birth
+27 person-institution/90/birth
+27 person-institution/49/birth
+27 person-institution/55/birth
+27 person-institution/40/birth
+27 person-institution/59/birth
+27 person-institution/81/birth
+27 person-institution/17/birth
+27 person-institution/97/birth
+27 person-institution/66/birth
+27 person-institution/70/birth
+27 person-institution/24/birth
+27 person-institution/79/birth
+27 person-institution/57/birth
+27 person-institution/47/birth
+27 person-institution/65/birth
+27 person-institution/16/birth
+27 person-institution/72/birth
+26 person-institution/2/birth
+28 person-institution/101/birth
+27 person-institution/35/birth
+27 person-institution/20/birth
+27 person-institution/31/birth
+27 person-institution/15/birth
+27 person-institution/11/birth
+26 person-institution/8/birth
+27 person-institution/10/birth
+27 person-institution/68/birth
+27 person-institution/88/birth
+27 person-institution/26/birth
+27 person-institution/27/birth
+28 person-institution/100/birth
+27 person-institution/15/birth
+27 person-institution/40/birth
+27 person-institution/63/birth
+27 person-institution/39/birth
+27 person-institution/70/birth
+27 person-institution/54/birth
+27 person-institution/40/birth
+27 person-institution/22/birth
+27 person-institution/66/birth
+26 person-institution/9/birth
+27 person-institution/55/birth
+27 person-institution/68/birth
+26 person-institution/8/birth
+28 person-institution/105/birth
+27 person-institution/37/birth
+27 person-institution/70/birth
+26 person-institution/2/birth
+27 person-institution/96/birth
+28 person-institution/108/birth
+28 person-institution/101/birth
+27 person-institution/64/birth
+27 person-institution/36/birth
+27 person-institution/52/birth
+27 person-institution/89/birth
+27 person-institution/88/birth
+27 person-institution/16/birth
+27 person-institution/60/birth
+
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink
+200
+32 person-institution/84/birth/date
+40 bibliography/1961.144/publication/date/1
+32 person-institution/89/birth/date
+32 person-institution/63/birth/date
+32 person-institution/26/death/date
+33 person-institution/---/death/date
+31 person-institution/7/death/date
+32 person-institution/14/death/date
+32 person-institution/75/birth/date
+32 person-institution/72/birth/date
+32 person-institution/85/death/date
+33 person-institution/---/death/date
+32 person-institution/17/birth/date
+32 person-institution/22/birth/date
+32 person-institution/49/birth/date
+32 person-institution/52/death/date
+32 person-institution/15/birth/date
+33 person-institution/106/death/date
+32 person-institution/30/death/date
+32 person-institution/28/birth/date
+32 person-institution/80/birth/date
+32 person-institution/59/death/date
+32 person-institution/98/death/date
+32 person-institution/94/death/date
+32 person-institution/86/death/date
+33 person-institution/---/birth/date
+32 person-institution/29/death/date
+32 person-institution/86/death/date
+32 person-institution/67/birth/date
+33 person-institution/---/death/date
+32 person-institution/69/death/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+32 person-institution/85/birth/date
+32 person-institution/77/death/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+31 person-institution/6/birth/date
+32 person-institution/40/death/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+32 person-institution/92/death/date
+32 person-institution/92/death/date
+32 person-institution/91/birth/date
+32 person-institution/33/death/date
+32 person-institution/96/birth/date
+32 person-institution/23/death/date
+32 person-institution/31/birth/date
+32 person-institution/16/birth/date
+67 person-institution/Frederic Remington-1861-1909-American/death/date
+32 person-institution/98/birth/date
+33 person-institution/---/death/date
+32 person-institution/86/death/date
+33 person-institution/---/birth/date
+33 person-institution/103/birth/date
+32 person-institution/28/death/date
+32 person-institution/41/birth/date
+32 person-institution/85/birth/date
+32 person-institution/77/death/date
+32 person-institution/87/birth/date
+32 person-institution/86/death/date
+32 person-institution/75/death/date
+32 person-institution/70/death/date
+32 person-institution/98/birth/date
+32 person-institution/93/birth/date
+33 person-institution/101/death/date
+32 person-institution/21/death/date
+33 person-institution/108/birth/date
+32 person-institution/80/death/date
+32 person-institution/78/death/date
+32 person-institution/52/death/date
+32 person-institution/30/birth/date
+32 person-institution/31/death/date
+32 person-institution/16/death/date
+32 person-institution/72/death/date
+32 person-institution/69/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+32 person-institution/39/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+33 person-institution/---/death/date
+32 person-institution/53/birth/date
+33 person-institution/107/birth/date
+31 person-institution/6/birth/date
+32 person-institution/57/birth/date
+40 bibliography/1961.171/publication/date/1
+32 person-institution/59/death/date
+32 person-institution/53/death/date
+33 person-institution/---/birth/date
+32 person-institution/94/death/date
+33 person-institution/105/death/date
+39 bibliography/1986.36/publication/date/1
+33 person-institution/100/birth/date
+32 person-institution/94/death/date
+32 person-institution/57/birth/date
+32 person-institution/26/death/date
+32 person-institution/61/birth/date
+32 person-institution/25/death/date
+33 person-institution/101/death/date
+33 person-institution/---/death/date
+32 person-institution/60/death/date
+33 person-institution/---/birth/date
+33 person-institution/102/death/date
+33 person-institution/---/death/date
+32 person-institution/97/birth/date
+31 person-institution/8/death/date
+32 person-institution/12/death/date
+32 person-institution/96/death/date
+40 bibliography/1961.228/publication/date/1
+32 person-institution/78/birth/date
+32 person-institution/97/birth/date
+32 person-institution/54/birth/date
+40 bibliography/1961.136/publication/date/1
+32 person-institution/70/death/date
+32 person-institution/69/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+39 bibliography/1995.15/publication/date/1
+40 bibliography/1961.146/publication/date/1
+32 person-institution/33/death/date
+33 person-institution/---/birth/date
+32 person-institution/87/death/date
+33 person-institution/102/birth/date
+32 person-institution/44/death/date
+32 person-institution/55/death/date
+32 person-institution/93/birth/date
+32 person-institution/10/birth/date
+32 person-institution/66/death/date
+32 person-institution/97/birth/date
+32 person-institution/77/birth/date
+32 person-institution/32/death/date
+32 person-institution/50/death/date
+32 person-institution/45/death/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+31 person-institution/8/death/date
+40 bibliography/1961.135/publication/date/1
+32 person-institution/49/death/date
+32 person-institution/99/death/date
+32 person-institution/14/birth/date
+32 person-institution/81/death/date
+33 person-institution/106/birth/date
+32 person-institution/66/death/date
+32 person-institution/68/death/date
+31 person-institution/6/death/date
+32 person-institution/34/birth/date
+32 person-institution/63/death/date
+31 person-institution/6/death/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+32 person-institution/27/birth/date
+32 person-institution/76/birth/date
+31 person-institution/3/death/date
+33 person-institution/103/death/date
+32 person-institution/12/birth/date
+32 person-institution/66/death/date
+32 person-institution/50/death/date
+32 person-institution/59/birth/date
+67 person-institution/Frederic Remington-1861-1909-American/birth/date
+32 person-institution/20/birth/date
+32 person-institution/41/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+32 person-institution/20/death/date
+32 person-institution/18/birth/date
+32 person-institution/29/birth/date
+32 person-institution/45/death/date
+32 person-institution/75/death/date
+32 person-institution/66/birth/date
+40 bibliography/1961.147/publication/date/1
+32 person-institution/96/death/date
+77 person-institution/Frederick William MacMonnies-1863-1937-American/birth/date
+32 person-institution/64/birth/date
+32 person-institution/94/death/date
+32 person-institution/44/birth/date
+32 person-institution/40/death/date
+32 person-institution/52/death/date
+32 person-institution/48/death/date
+32 person-institution/31/death/date
+33 person-institution/---/birth/date
+32 person-institution/55/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+32 person-institution/81/death/date
+33 person-institution/---/birth/date
+33 person-institution/100/birth/date
+32 person-institution/27/birth/date
+62 person-institution/Joseph Stella-1877-1946-American/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/death/date
+62 person-institution/Joseph Stella-1877-1946-American/death/date
+32 person-institution/63/death/date
+33 person-institution/---/death/date
+32 person-institution/99/birth/date
+31 person-institution/9/death/date
+32 person-institution/44/death/date
+32 person-institution/83/birth/date
+33 person-institution/---/birth/date
+32 person-institution/24/birth/date
+31 person-institution/2/death/date
+32 person-institution/65/death/date
+32 person-institution/52/birth/date
+67 person-institution/Charles M. Russell-1864-1926-American/birth/date
+32 person-institution/27/death/date
+33 person-institution/108/death/date
+32 person-institution/67/death/date
+33 person-institution/104/death/date
+32 person-institution/62/death/date
+31 person-institution/3/death/date
+32 person-institution/18/birth/date
+
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink
+200
+36 person-institution/104/appellation/1
+35 person-institution/45/appellation/1
+34 person-institution/7/appellation/1
+42 David Hockney, born Bradford, England 1937
+26 Johnson, Eastman 1824-1906
+11 Sally Avery
+35 person-institution/83/appellation/1
+35 person-institution/90/appellation/1
+36 person-institution/102/appellation/1
+35 person-institution/48/appellation/1
+26 Red Cloud, Edgar 1897-1977
+35 person-institution/59/appellation/1
+35 person-institution/30/appellation/1
+35 person-institution/92/appellation/1
+18 Wetmore, Alexander
+35 person-institution/98/appellation/1
+41 National Museum of Natural History (U.S.)
+35 person-institution/31/appellation/1
+35 person-institution/14/appellation/1
+35 person-institution/95/appellation/1
+41 John Wesley Powell, American, 1834 - 1902
+35 person-institution/84/appellation/1
+15 Hirshhorn, Olga
+34 person-institution/9/appellation/1
+35 person-institution/12/appellation/1
+40 Pywell, Wm. R (William Redish) 1843-1886
+35 person-institution/91/appellation/1
+36 person-institution/106/appellation/1
+34 Marcel Duchamp, 28 Jul 1887 - 1968
+59 Man Ray, born Philadelphia, PA 1890-died Paris, France 1976
+15 Flanagan, Barry
+48 person-institution/5451/appelletion/Variant-Name
+35 person-institution/98/appellation/1
+35 person-institution/97/appellation/1
+35 person-institution/44/appellation/1
+35 person-institution/92/appellation/1
+35 person-institution/15/appellation/1
+35 person-institution/11/appellation/1
+35 Bringhurst, Robert Porter 1855-1925
+35 person-institution/60/appellation/1
+35 person-institution/83/appellation/1
+25 Winnebago Sons of Baraboo
+35 person-institution/62/appellation/1
+22 Buffalo Bill 1846-1917
+35 person-institution/32/appellation/1
+35 person-institution/91/appellation/1
+15 Karol, Joseph S
+31 Tom (unknown surname), Onondaga
+35 person-institution/75/appellation/1
+35 person-institution/41/appellation/1
+23 McDurrin, Edward Mr Mrs
+7 Wetmore
+18 Wetmore, Alexander
+35 person-institution/53/appellation/1
+35 person-institution/45/appellation/1
+13 Daly, William
+36 person-institution/105/appellation/1
+35 person-institution/45/appellation/1
+7 Unknown
+35 person-institution/37/appellation/1
+6 Powell
+35 person-institution/71/appellation/1
+35 person-institution/46/appellation/1
+48 person-institution/9071/appelletion/Married-Name
+35 person-institution/85/appellation/1
+41 Barker, George of Niagara Falls, New York
+36 person-institution/102/appellation/1
+23 Fort Kipp Sioux Singers
+17 Shannon, Marshall
+24 David Hockney, born 1937
+35 person-institution/85/appellation/1
+24 Picasso, Pablo 1881-1973
+35 person-institution/52/appellation/1
+35 person-institution/89/appellation/1
+18 Motherwell, Robert
+35 person-institution/40/appellation/1
+35 person-institution/25/appellation/1
+35 person-institution/27/appellation/1
+36 person-institution/101/appellation/1
+35 person-institution/84/appellation/1
+18 Kennedy, Francis A
+35 person-institution/32/appellation/1
+35 person-institution/38/appellation/1
+30 OSullivan, Timothy H 1840-1882
+35 person-institution/59/appellation/1
+35 person-institution/89/appellation/1
+35 person-institution/84/appellation/1
+68 Harry Sternberg, American, b. New York City, 1904&xe2;&x80;&x93;2001
+35 person-institution/33/appellation/1
+35 person-institution/33/appellation/1
+26 Pollock, Jackson 1912-1956
+35 person-institution/43/appellation/1
+35 person-institution/41/appellation/1
+14 Iles, Chrissie
+45 person-institution/2185/appelletion/Pseudonym
+35 person-institution/89/appellation/1
+35 person-institution/98/appellation/1
+34 person-institution/9/appellation/1
+35 person-institution/43/appellation/1
+35 person-institution/40/appellation/1
+35 person-institution/44/appellation/1
+15 Kirk, Jesse Rev
+35 person-institution/21/appellation/1
+35 person-institution/29/appellation/1
+35 person-institution/21/appellation/1
+35 person-institution/68/appellation/1
+34 person-institution/7/appellation/1
+23 Lutz, Adolpho 1855-1940
+35 person-institution/76/appellation/1
+35 person-institution/77/appellation/1
+35 person-institution/86/appellation/1
+35 person-institution/27/appellation/1
+48 person-institution/27748/appelletion/former-name
+43 Alexander Calder, 22 Jul 1898 - 11 Nov 1976
+35 person-institution/63/appellation/1
+13 Eastman, John
+35 person-institution/32/appellation/1
+35 person-institution/88/appellation/1
+30 American Packaging Corporation
+35 person-institution/11/appellation/1
+36 person-institution/106/appellation/1
+35 person-institution/65/appellation/1
+35 person-institution/54/appellation/1
+23 Smithsonian Institution
+24 David Hockney, born 1937
+36 person-institution/101/appellation/1
+24 Wetmore, Alexander 1886-
+35 person-institution/68/appellation/1
+34 Man Ray, 27 Aug 1890 - 18 Nov 1976
+35 person-institution/58/appellation/1
+35 person-institution/86/appellation/1
+35 person-institution/93/appellation/1
+36 person-institution/104/appellation/1
+35 person-institution/62/appellation/1
+20 Cochran, Doris Mable
+34 person-institution/7/appellation/1
+35 person-institution/36/appellation/1
+8 Hiawatha
+35 person-institution/94/appellation/1
+26 Hayes, David Vincent 1931-
+71 Augustus Saint-Gaudens, born Dublin, Ireland 1848-died Cornish, NH 1907
+57 person-institution/7109/appelletion/Preferred-w-o-accents
+35 person-institution/66/appellation/1
+47 person-institution/16131/appelletion/Later-Name
+13 Kitts, Eunice
+35 person-institution/66/appellation/1
+14 Vennum, Thomas
+14 J. H. Buckalew
+35 person-institution/64/appellation/1
+34 Man Ray, 27 Aug 1890 - 18 Nov 1976
+49 person-institution/770/appelletion/Conferred-Name
+35 person-institution/91/appellation/1
+28 Sitting Bull Hunkpapa Dakota
+36 person-institution/108/appellation/1
+35 person-institution/47/appellation/1
+35 person-institution/68/appellation/1
+36 person-institution/101/appellation/1
+35 person-institution/77/appellation/1
+35 person-institution/61/appellation/1
+35 person-institution/58/appellation/1
+35 person-institution/45/appellation/1
+35 person-institution/25/appellation/1
+17 Luciano Anselmino
+19 Schilling, Dianne P
+24 Eakins, Thomas 1844-1916
+19 Hirshhorn, Joseph H
+35 person-institution/26/appellation/1
+28 Sitting Bull Hunkpapa Dakota
+34 person-institution/5/appellation/1
+35 person-institution/75/appellation/1
+20 Peter A. Juley & Son
+34 person-institution/5/appellation/1
+35 person-institution/72/appellation/1
+35 person-institution/71/appellation/1
+36 person-institution/103/appellation/1
+16 Lincoln, Abraham
+35 person-institution/99/appellation/1
+35 person-institution/38/appellation/1
+17 Hiawatha depicted
+35 person-institution/96/appellation/1
+35 person-institution/69/appellation/1
+20 Carnegie War Mothers
+20 Armstrong, Charles D
+35 person-institution/67/appellation/1
+20 Peter A. Juley & Son
+23 Avery, Milton 1885-1965
+24 David Hockney, born 1937
+43 Alexander Calder, 22 Jul 1898 - 11 Nov 1976
+35 person-institution/61/appellation/1
+19 Black Lodge Singers
+48 Ulysses Simpson Grant, 27 Apr 1822 - 23 Jul 1885
+36 person-institution/102/appellation/1
+35 person-institution/33/appellation/1
+46 Gilmore, Charles W (Charles Whitney) 1874-1945
+35 person-institution/12/appellation/1
+35 person-institution/51/appellation/1
+35 person-institution/63/appellation/1
+35 person-institution/41/appellation/1
+13 Lerner, Abram
+35 person-institution/25/appellation/1
+
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink
+200
+34 object/siris_arc_319824/identifier
+24 person-institution/18/id
+23 person-institution/3/id
+33 object/siris_sil_40344/identifier
+33 object/saam_2003.31A-X/identifier
+20 object/1986.36/regno
+32 object/siris_sic_5938/identifier
+33 object/siris_sic_10061/identifier
+33 object/siris_sil_73088/identifier
+32 object/saam_1997.2A-B/identifier
+25 person-institution/103/id
+33 object/saam_2003.31A-X/identifier
+21 object/1961.136/regno
+24 person-institution/50/id
+24 person-institution/32/id
+24 person-institution/54/id
+24 person-institution/52/id
+29 object/nmah_524528/identifier
+32 object/nmnhvz_4085970/identifier
+32 object/npg_NPG.84.147/identifier
+34 object/siris_arc_217308/identifier
+24 person-institution/43/id
+18 object//identifier
+36 object/npm_1980.2493.5734/identifier
+33 object/saam_1965.16.25/identifier
+21 object/1961.144/regno
+35 object/npg_S_NPG.2013.45/identifier
+18 object//identifier
+24 person-institution/80/id
+18 object//identifier
+18 object//identifier
+30 object/npg_NPG.93.3/identifier
+24 person-institution/35/id
+24 person-institution/15/id
+24 person-institution/49/id
+24 person-institution/35/id
+24 person-institution/48/id
+37 object/auth_per_fbr_EACP26/identifier
+20 object/1995.15/regno
+29 object/nmah_472453/identifier
+32 object/npg_NPG.84.147/identifier
+33 object/siris_sil_40344/identifier
+23 person-institution/2/id
+29 object/nmah_524528/identifier
+24 person-institution/92/id
+32 object/siris_sic_5938/identifier
+33 object/saam_1965.16.12/identifier
+42 object/nmnhanthropology_8420529/identifier
+33 object/siris_arc_84667/identifier
+24 person-institution/90/id
+29 object/hmsg_66.786/identifier
+24 person-institution/76/id
+32 object/nmnhvz_4353854/identifier
+18 object//identifier
+31 object/npg_NPG.75.23/identifier
+37 object/auth_per_fbr_EACP26/identifier
+24 person-institution/66/id
+34 object/siris_sil_775339/identifier
+32 object/npg_NPG.80.183/identifier
+34 object/siris_arc_201408/identifier
+34 object/npg_NPG.2002.271/identifier
+37 object/auth_per_fbr_EACP26/identifier
+37 object/auth_per_fbr_EACP26/identifier
+33 object/saam_2003.31A-X/identifier
+37 object/auth_per_fbr_EACP26/identifier
+33 object/siris_sil_86070/identifier
+38 object/auth_per_fbr_EACP748/identifier
+29 object/nmah_496935/identifier
+34 object/siris_ari_343772/identifier
+42 object/nmnhanthropology_8420533/identifier
+32 object/siris_jul_1500/identifier
+24 person-institution/24/id
+34 object/siris_arc_353515/identifier
+24 person-institution/89/id
+30 object/npg_NPG.93.4/identifier
+24 person-institution/11/id
+34 object/npg_NPG.88.70.14/identifier
+34 object/siris_arc_217603/identifier
+24 person-institution/48/id
+21 object/1961.135/regno
+18 object//identifier
+21 object/1961.228/regno
+32 object/npg_NPG.84.191/identifier
+24 person-institution/14/id
+34 object/siris_arc_229239/identifier
+35 object/npg_S_NPG.2013.45/identifier
+34 object/siris_ari_447278/identifier
+32 object/npg_NPG.84.147/identifier
+33 object/siris_arc_97116/identifier
+21 object/1961.147/regno
+30 object/hmsg_66.2472/identifier
+34 object/siris_arc_211735/identifier
+24 person-institution/69/id
+34 object/siris_ari_336228/identifier
+29 object/nmah_430767/identifier
+29 object/nmah_430767/identifier
+34 object/siris_ari_214954/identifier
+24 person-institution/39/id
+30 object/hmsg_66.2472/identifier
+24 person-institution/23/id
+24 person-institution/27/id
+35 object/npm_2002.2029.115/identifier
+30 object/hmsg_66.2472/identifier
+32 object/nmnhvz_4353854/identifier
+34 object/siris_sil_529274/identifier
+24 person-institution/55/id
+24 person-institution/47/id
+34 object/siris_arc_217308/identifier
+34 object/siris_arc_217603/identifier
+24 person-institution/78/id
+33 object/siris_arc_84667/identifier
+24 person-institution/91/id
+24 person-institution/68/id
+24 person-institution/66/id
+25 person-institution/103/id
+24 person-institution/35/id
+33 object/siris_arc_97116/identifier
+29 object/nmah_515977/identifier
+32 object/npg_NPG.84.191/identifier
+32 object/saam_1997.2A-B/identifier
+24 person-institution/25/id
+32 object/nmnhvz_4039020/identifier
+32 object/nmnhvz_4353854/identifier
+33 object/siris_sil_86070/identifier
+38 object/auth_per_fbr_EACP748/identifier
+33 object/siris_jul_64838/identifier
+34 object/npg_NPG.2002.221/identifier
+42 object/nmnhanthropology_8420533/identifier
+21 object/1961.171/regno
+34 object/siris_arc_353515/identifier
+24 person-institution/57/id
+31 object/npg_NPG.75.23/identifier
+32 object/nmnhvz_4085970/identifier
+24 person-institution/61/id
+32 object/nmnhvz_4039020/identifier
+32 object/siris_arc_2267/identifier
+24 person-institution/71/id
+39 object/auth_exp_fbr_EACE0038/identifier
+34 object/npg_NPG.88.70.14/identifier
+24 person-institution/12/id
+18 object//identifier
+24 person-institution/71/id
+33 object/npg_S_NPG.79.67/identifier
+34 object/siris_ari_343772/identifier
+42 object/nmnhanthropology_8093073/identifier
+34 object/siris_arc_353515/identifier
+33 object/saam_1983.105.2/identifier
+24 person-institution/77/id
+32 object/nmnhvz_4026636/identifier
+24 person-institution/92/id
+38 object/auth_per_fbr_EACP748/identifier
+29 object/nmah_496935/identifier
+37 object/auth_per_fbr_EACP26/identifier
+34 object/siris_arc_209447/identifier
+34 object/siris_arc_298126/identifier
+29 object/nmah_496935/identifier
+32 object/siris_sic_5938/identifier
+32 object/nmnhvz_4049267/identifier
+32 object/siris_arc_2267/identifier
+29 object/hmsg_66.786/identifier
+24 person-institution/50/id
+34 object/siris_arc_353515/identifier
+18 object//identifier
+33 object/saam_1965.16.12/identifier
+24 person-institution/39/id
+34 object/siris_ari_336228/identifier
+30 object/npg_NPG.93.4/identifier
+33 object/saam_2003.31A-X/identifier
+24 person-institution/58/id
+24 person-institution/90/id
+18 object//identifier
+34 object/siris_arc_319824/identifier
+33 object/siris_sil_71124/identifier
+33 object/saam_1983.105.2/identifier
+24 person-institution/80/id
+24 person-institution/67/id
+21 object/1961.146/regno
+30 object/hmsg_86.4504/identifier
+33 object/siris_arc_87459/identifier
+24 person-institution/94/id
+33 object/saam_1983.105.2/identifier
+24 person-institution/30/id
+23 person-institution/8/id
+32 object/saam_1960.11.3/identifier
+24 person-institution/98/id
+24 person-institution/35/id
+33 object/siris_arc_97116/identifier
+39 object/auth_exp_fbr_EACE0023/identifier
+36 object/nmnhbotany_2527239/identifier
+33 object/siris_sic_10056/identifier
+31 object/npg_NPG.75.23/identifier
+24 person-institution/57/id
+24 person-institution/26/id
+24 person-institution/92/id
+42 object/nmnhanthropology_8420533/identifier
+42 object/nmnhanthropology_8420533/identifier
+29 object/nmah_430767/identifier
+34 object/siris_arc_353515/identifier
+34 object/siris_arc_319824/identifier
+34 object/siris_arc_319824/identifier
+
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink
+200
+29 thesauri/nationality/American
+29 thesauri/nationality/Canadian
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/German
+29 thesauri/nationality/Canadian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+21 thesauri/nationality/
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/Chilean
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/Canadian
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+28 thesauri/nationality/Spanish
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+30 thesauri/nationality/American?
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+30 thesauri/nationality/American?
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/Spanish
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/Canadian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+19 thesauri/department
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+30 thesauri/nationality/American?
+28 thesauri/nationality/English
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink
+200
+27 person-institution/83/death
+27 person-institution/60/death
+26 person-institution/9/death
+26 person-institution/3/death
+26 person-institution/8/death
+27 person-institution/45/death
+27 person-institution/41/death
+27 person-institution/52/death
+27 person-institution/88/death
+27 person-institution/98/death
+27 person-institution/53/death
+26 person-institution/8/death
+27 person-institution/39/death
+27 person-institution/33/death
+27 person-institution/58/death
+27 person-institution/22/death
+27 person-institution/63/death
+27 person-institution/93/death
+27 person-institution/48/death
+27 person-institution/87/death
+27 person-institution/94/death
+27 person-institution/21/death
+27 person-institution/21/death
+27 person-institution/41/death
+27 person-institution/68/death
+28 person-institution/103/death
+27 person-institution/91/death
+27 person-institution/44/death
+27 person-institution/13/death
+27 person-institution/93/death
+27 person-institution/34/death
+27 person-institution/55/death
+27 person-institution/11/death
+27 person-institution/48/death
+27 person-institution/85/death
+27 person-institution/86/death
+27 person-institution/16/death
+27 person-institution/28/death
+27 person-institution/18/death
+27 person-institution/67/death
+27 person-institution/45/death
+27 person-institution/18/death
+27 person-institution/12/death
+27 person-institution/51/death
+27 person-institution/89/death
+27 person-institution/53/death
+27 person-institution/23/death
+27 person-institution/17/death
+27 person-institution/13/death
+27 person-institution/39/death
+27 person-institution/32/death
+27 person-institution/60/death
+27 person-institution/90/death
+27 person-institution/66/death
+27 person-institution/25/death
+27 person-institution/31/death
+27 person-institution/72/death
+27 person-institution/32/death
+27 person-institution/72/death
+27 person-institution/17/death
+27 person-institution/22/death
+27 person-institution/40/death
+27 person-institution/31/death
+27 person-institution/61/death
+26 person-institution/6/death
+28 person-institution/108/death
+27 person-institution/72/death
+26 person-institution/5/death
+27 person-institution/44/death
+27 person-institution/13/death
+27 person-institution/12/death
+26 person-institution/2/death
+27 person-institution/87/death
+27 person-institution/78/death
+27 person-institution/43/death
+27 person-institution/18/death
+27 person-institution/93/death
+27 person-institution/13/death
+27 person-institution/79/death
+27 person-institution/33/death
+27 person-institution/81/death
+27 person-institution/17/death
+26 person-institution/3/death
+27 person-institution/98/death
+28 person-institution/101/death
+27 person-institution/10/death
+26 person-institution/9/death
+28 person-institution/103/death
+27 person-institution/36/death
+27 person-institution/90/death
+27 person-institution/81/death
+27 person-institution/59/death
+26 person-institution/7/death
+27 person-institution/60/death
+27 person-institution/21/death
+27 person-institution/94/death
+27 person-institution/21/death
+27 person-institution/60/death
+27 person-institution/10/death
+28 person-institution/106/death
+27 person-institution/67/death
+27 person-institution/26/death
+27 person-institution/55/death
+27 person-institution/62/death
+27 person-institution/55/death
+27 person-institution/25/death
+27 person-institution/17/death
+27 person-institution/22/death
+26 person-institution/6/death
+26 person-institution/6/death
+27 person-institution/96/death
+27 person-institution/24/death
+27 person-institution/38/death
+26 person-institution/5/death
+27 person-institution/71/death
+28 person-institution/101/death
+26 person-institution/2/death
+27 person-institution/97/death
+27 person-institution/32/death
+28 person-institution/104/death
+27 person-institution/87/death
+27 person-institution/33/death
+27 person-institution/10/death
+26 person-institution/3/death
+27 person-institution/38/death
+27 person-institution/72/death
+27 person-institution/71/death
+26 person-institution/7/death
+27 person-institution/35/death
+27 person-institution/84/death
+27 person-institution/75/death
+27 person-institution/91/death
+28 person-institution/107/death
+27 person-institution/95/death
+27 person-institution/58/death
+26 person-institution/7/death
+28 person-institution/107/death
+27 person-institution/48/death
+27 person-institution/36/death
+28 person-institution/100/death
+27 person-institution/34/death
+27 person-institution/75/death
+27 person-institution/35/death
+27 person-institution/45/death
+27 person-institution/17/death
+27 person-institution/86/death
+26 person-institution/2/death
+27 person-institution/26/death
+27 person-institution/28/death
+28 person-institution/108/death
+27 person-institution/29/death
+27 person-institution/60/death
+27 person-institution/96/death
+27 person-institution/76/death
+27 person-institution/86/death
+28 person-institution/103/death
+27 person-institution/84/death
+27 person-institution/31/death
+27 person-institution/58/death
+26 person-institution/6/death
+27 person-institution/29/death
+27 person-institution/79/death
+27 person-institution/88/death
+27 person-institution/93/death
+27 person-institution/18/death
+27 person-institution/88/death
+27 person-institution/25/death
+28 person-institution/100/death
+27 person-institution/23/death
+26 person-institution/8/death
+27 person-institution/51/death
+27 person-institution/89/death
+28 person-institution/100/death
+27 person-institution/63/death
+27 person-institution/78/death
+28 person-institution/101/death
+27 person-institution/11/death
+27 person-institution/75/death
+27 person-institution/16/death
+27 person-institution/60/death
+27 person-institution/51/death
+27 person-institution/37/death
+27 person-institution/47/death
+27 person-institution/94/death
+27 person-institution/40/death
+27 person-institution/43/death
+27 person-institution/15/death
+28 person-institution/100/death
+26 person-institution/7/death
+27 person-institution/76/death
+27 person-institution/69/death
+27 person-institution/96/death
+27 person-institution/41/death
+27 person-institution/16/death
+27 person-institution/48/death
+28 person-institution/107/death
+27 person-institution/90/death
+27 person-institution/12/death
+27 person-institution/70/death
+27 person-institution/22/death
+
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink
+200
+29 thesauri/nationality/American
+28 thesauri/nationality/Italian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+28 thesauri/nationality/Italian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+30 thesauri/nationality/American?
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/Spanish
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/German
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+26 thesauri/nationality/Dutch
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+21 thesauri/nationality/
+29 thesauri/nationality/Canadian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/Italian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/English
+28 thesauri/nationality/Italian
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+27 thesauri/nationality/French
+27 thesauri/nationality/French
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+21 thesauri/nationality/
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+28 thesauri/nationality/Spanish
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+29 thesauri/nationality/American
+
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink
+200
+10 Individual
+31 thesauri/objecttype/photographs
+20 thesauri/nationality
+20 thesauri/unit/height
+20 thesauri/unit/height
+10 Individual
+10 Individual
+10 Individual
+24 thesauri/subjectkeywords
+26 thesauri/objecttype/prints
+16 thesauri/objtype
+19 thesauri/profession
+24 thesauri/subjectkeywords
+19 thesauri/unit/width
+19 thesauri/profession
+30 thesauri/objecttype/scrapbooks
+30 thesauri/objecttype/scrapbooks
+37 thesauri/objecttype/archivalmaterials
+31 thesauri/objecttype/photographs
+24 thesauri/subjectkeywords
+25 thesauri/relationshiptype
+41 thesauri/objecttype/sculpture(visualwork)
+10 Individual
+36 thesauri/objecttype/woodcuts(prints)
+20 thesauri/nationality
+26 thesauri/objecttype/prints
+31 thesauri/objecttype/photographs
+42 thesauri/objecttype/chairs(furnitureforms)
+10 Individual
+33 thesauri/objecttype/postagestamps
+20 thesauri/nationality
+10 Individual
+35 thesauri/objecttype/soundrecordings
+19 thesauri/unit/depth
+31 thesauri/objecttype/photographs
+41 thesauri/objecttype/sculpture(visualwork)
+48 thesauri/objecttype/smithsonianstaffpublications
+41 thesauri/objecttype/architecturalelements
+30 thesauri/objecttype/newspapers
+19 thesauri/unit/width
+24 thesauri/subjectkeywords
+26 thesauri/objecttype/prints
+25 thesauri/relationshiptype
+48 thesauri/objecttype/smithsonianstaffpublications
+31 thesauri/objecttype/photographs
+20 thesauri/nationality
+31 thesauri/objecttype/photographs
+20 thesauri/unit/height
+37 thesauri/objecttype/archivalmaterials
+31 thesauri/objecttype/photographs
+35 thesauri/objecttype/coats(garments)
+31 thesauri/objecttype/photographs
+42 thesauri/objecttype/collectiondescriptions
+37 thesauri/objecttype/archivalmaterials
+19 thesauri/unit/depth
+20 thesauri/unit/height
+35 thesauri/objecttype/soundrecordings
+37 thesauri/objecttype/archivalmaterials
+27 thesauri/objecttype/graters
+34 thesauri/objecttype/keys(hardware)
+19 thesauri/unit/depth
+29 thesauri/objecttype/paintings
+10 Individual
+19 thesauri/unit/width
+15 thesauri/gender
+35 thesauri/objecttype/coats(garments)
+19 thesauri/profession
+19 thesauri/profession
+32 thesauri/objecttype/vocabularies
+10 Individual
+10 Individual
+20 thesauri/nationality
+35 thesauri/objecttype/coats(garments)
+19 thesauri/unit/depth
+19 thesauri/unit/width
+10 Individual
+36 thesauri/objecttype/outdoorsculpture
+19 thesauri/profession
+28 thesauri/objecttype/drawings
+10 Individual
+25 thesauri/objecttype/music
+37 thesauri/objecttype/archivalmaterials
+15 thesauri/gender
+10 Individual
+15 thesauri/gender
+10 Individual
+10 Individual
+10 Individual
+10 Individual
+10 Individual
+37 thesauri/objecttype/archivalmaterials
+10 Individual
+15 thesauri/gender
+29 thesauri/objecttype/paintings
+31 thesauri/objecttype/photographs
+10 Individual
+10 Individual
+10 Individual
+20 thesauri/unit/height
+19 thesauri/unit/width
+31 thesauri/objecttype/photographs
+10 Individual
+31 thesauri/objecttype/photographs
+10 Individual
+37 thesauri/objecttype/archivalmaterials
+24 thesauri/subjectkeywords
+24 thesauri/subjectkeywords
+10 Individual
+42 thesauri/objecttype/collectiondescriptions
+42 thesauri/objecttype/collectiondescriptions
+19 thesauri/unit/width
+39 thesauri/objecttype/reliefs(sculptures)
+42 thesauri/objecttype/collectiondescriptions
+10 Individual
+19 thesauri/unit/width
+25 thesauri/objecttype/texts
+29 thesauri/objecttype/paintings
+19 thesauri/profession
+10 Individual
+30 thesauri/nametype/Married-Name
+39 thesauri/objecttype/electronicdocuments
+25 thesauri/relationshiptype
+10 Individual
+35 thesauri/objecttype/coats(garments)
+32 thesauri/objecttype/dictionaries
+41 thesauri/objecttype/sculpture(visualwork)
+19 thesauri/profession
+38 thesauri/objecttype/engravings(prints)
+41 thesauri/objecttype/sculpture(visualwork)
+42 thesauri/objecttype/collectiondescriptions
+19 thesauri/unit/depth
+41 thesauri/objecttype/sculpture(visualwork)
+26 thesauri/objecttype/people
+10 Individual
+19 thesauri/unit/depth
+33 thesauri/objecttype/postagestamps
+42 thesauri/objecttype/collectiondescriptions
+10 Individual
+20 thesauri/nationality
+10 Individual
+31 thesauri/objecttype/photographs
+10 Individual
+10 Individual
+50 thesauri/objecttype/electronicinformationresources
+10 Individual
+36 thesauri/objecttype/outdoorsculpture
+10 Individual
+20 thesauri/nationality
+30 thesauri/objecttype/microforms
+42 thesauri/objecttype/collectiondescriptions
+42 thesauri/objecttype/collectiondescriptions
+31 thesauri/objecttype/biographies
+15 thesauri/gender
+10 Individual
+16 thesauri/objtype
+15 thesauri/gender
+30 thesauri/objecttype/fieldnotes
+37 thesauri/objecttype/archivalmaterials
+25 thesauri/relationshiptype
+28 thesauri/objecttype/drawings
+30 thesauri/nametype/Variant-Name
+15 thesauri/gender
+31 thesauri/objecttype/photographs
+16 thesauri/objtype
+10 Individual
+41 thesauri/objecttype/sculpture(visualwork)
+26 thesauri/objecttype/prints
+31 thesauri/objecttype/photographs
+16 thesauri/objtype
+16 thesauri/objtype
+19 thesauri/profession
+41 thesauri/objecttype/sculpture(visualwork)
+41 thesauri/objecttype/architecturalelements
+29 thesauri/objecttype/paintings
+10 Individual
+10 Individual
+20 thesauri/nationality
+20 thesauri/nationality
+37 thesauri/objecttype/archivalmaterials
+25 thesauri/relationshiptype
+10 Individual
+31 thesauri/objecttype/photographs
+10 Individual
+20 thesauri/unit/height
+10 Individual
+29 thesauri/objecttype/paintings
+50 thesauri/objecttype/electronicinformationresources
+37 thesauri/objecttype/archivalmaterials
+41 thesauri/objecttype/sculpture(visualwork)
+26 thesauri/objecttype/prints
+16 thesauri/objtype
+31 thesauri/objecttype/photographs
+16 thesauri/objtype
+25 thesauri/objecttype/music
+36 thesauri/objecttype/outdoorsculpture
+10 Individual
+29 thesauri/objecttype/paintings
+19 thesauri/unit/depth
+25 thesauri/relationshiptype
+31 thesauri/objecttype/photographs
+
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink
+200
+14 siris_sic_9826
+18 object/nmah_430767
+16 siris_ari_343772
+22 object/siris_jul_64891
+28 object/auth_exp_fbr_EACE0038
+23 object/siris_sil_775339
+22 object/siris_sic_10056
+23 object/siris_arc_298126
+15 object/1961.171
+14 nmnhvz_5026761
+23 object/siris_sil_775339
+16 siris_arc_298126
+14 siris_arc_1410
+25 object/npm_1980.2493.5734
+22 object/siris_arc_87459
+21 object/nmnhvz_4026636
+23 object/siris_arc_353515
+15 npg_S_NPG.79.67
+22 object/siris_arc_97116
+21 object/nmnhvz_5026761
+22 object/siris_jul_64891
+16 siris_ari_291292
+20 object/npg_NPG.75.23
+23 object/siris_arc_229239
+7 object/
+22 object/siris_sil_71124
+15 siris_sil_73088
+23 object/siris_ari_343772
+15 object/1961.144
+15 object/1961.228
+19 object/SILSRO_86344
+15 siris_arc_88081
+14 object/1986.36
+31 object/nmnhanthropology_8420533
+18 nmnhbotany_2527239
+23 object/siris_ari_336228
+19 object/npg_NPG.93.4
+22 object/saam_1983.105.2
+21 object/saam_1997.2A-B
+14 npg_NPG.84.191
+31 object/nmnhanthropology_8093073
+14 saam_1977.43.2
+21 object/nmnhvz_4089652
+21 object/npg_S_NPG.79.4
+22 object/saam_1965.16.25
+21 object/nmnhvz_4353854
+21 object/siris_jul_1500
+21 object/siris_arc_1410
+7 object/
+22 object/siris_jul_64891
+21 object/npg_S_NPG.79.4
+14 nmnhvz_4039020
+22 object/npg_S_NPG.79.67
+22 object/siris_sil_86070
+15 saam_1983.105.2
+18 object/NMAI_267364
+22 object/siris_arc_97116
+21 object/siris_sic_9826
+15 npg_S_NPG.79.67
+15 siris_arc_84667
+7 object/
+7 object/
+7 object/
+21 object/saam_1977.43.2
+22 object/siris_arc_88081
+12 npg_NPG.93.3
+21 object/nmnhvz_4039020
+27 object/auth_per_fbr_EACP748
+21 object/nmnhvz_4026636
+21 object/siris_arc_2267
+21 object/npg_NPG.84.191
+25 object/nmnhbotany_2527239
+22 object/siris_sic_10056
+23 object/siris_arc_353515
+18 object/nmah_496935
+22 object/siris_jul_64838
+21 object/siris_arc_1410
+21 object/nmnhvz_4085970
+19 object/hmsg_86.4504
+28 object/auth_exp_fbr_EACE0023
+31 object/nmnhanthropology_8093073
+16 siris_arc_209447
+18 object/nmah_472453
+28 object/auth_exp_fbr_EACE0024
+23 object/siris_arc_211735
+21 object/saam_1997.2A-B
+22 object/saam_1965.16.12
+23 object/siris_sil_775339
+23 object/siris_sil_529274
+22 object/siris_sil_73088
+21 object/npg_NPG.84.191
+23 object/siris_ari_214954
+21 object/nmnhvz_4353854
+21 auth_exp_fbr_EACE0023
+23 object/siris_arc_209447
+19 object/hmsg_86.1490
+16 siris_sil_529274
+18 fbr_item_MODSI3804
+22 object/siris_jul_64838
+23 object/siris_sil_775339
+22 object/npg_S_NPG.79.67
+7 object/
+14 siris_ari_1608
+21 object/npg_S_NPG.79.4
+18 object/nmah_515977
+31 object/nmnhanthropology_8420533
+15 siris_arc_97116
+18 object/nmah_430767
+21 object/nmnhvz_5026761
+21 object/npg_NPG.80.183
+12 npg_NPG.93.4
+15 siris_sic_10056
+20 auth_per_fbr_EACP748
+14 object/1995.15
+21 object/siris_sic_9826
+25 object/fbr_item_MODSI3804
+21 object/npg_NPG.80.183
+21 object/nmnhvz_4085970
+21 object/siris_arc_2267
+11 NMAI_267364
+23 object/npg_NPG.2002.221
+28 object/auth_exp_fbr_EACE0038
+23 object/siris_arc_211735
+23 object/siris_ari_291292
+23 object/siris_arc_217308
+7 object/
+22 object/siris_sil_40344
+22 object/siris_arc_84667
+18 object/nmah_430767
+25 object/nmnhbotany_2527239
+22 object/siris_jul_64891
+22 object/siris_arc_97116
+15 object/1961.146
+16 siris_arc_211735
+14 npg_NPG.84.147
+21 object/saam_1997.2A-B
+20 object/npg_NPG.75.23
+22 object/siris_sil_86070
+27 object/auth_per_fbr_EACP748
+23 object/npg_NPG.88.70.14
+23 object/siris_ari_336228
+12 hmsg_66.2472
+31 object/nmnhanthropology_8420533
+23 object/siris_arc_229239
+15 object/1961.135
+19 object/npg_NPG.93.3
+21 object/saam_1960.11.3
+20 object/npg_NPG.75.23
+22 object/siris_sil_71124
+21 object/siris_arc_2267
+21 object/npg_S_NPG.79.4
+24 nmnhanthropology_8093073
+23 object/siris_arc_201408
+19 object/npg_NPG.93.3
+22 object/siris_sil_40344
+23 object/npg_NPG.2002.221
+22 object/siris_sil_33338
+23 object/siris_ari_291292
+25 object/fbr_item_MODSI3804
+19 object/hmsg_66.2472
+14 nmnhvz_4085970
+21 object/siris_ari_1608
+18 object/hmsg_66.786
+22 object/siris_arc_97116
+24 object/npg_S_NPG.2013.45
+23 object/siris_arc_209447
+21 object/nmnhvz_4353854
+22 object/saam_1983.105.2
+23 object/npg_NPG.2002.221
+22 object/saam_1965.16.12
+23 object/siris_arc_298126
+23 object/siris_arc_217603
+23 object/siris_arc_201408
+16 siris_arc_201408
+22 object/saam_1965.16.12
+23 object/siris_sil_775339
+14 siris_sic_5938
+15 siris_sic_10056
+16 siris_arc_353515
+15 object/1961.136
+15 object/1961.147
+17 npg_S_NPG.2013.45
+21 object/nmnhvz_4026636
+24 object/npg_S_NPG.2013.45
+21 object/npg_NPG.84.147
+7 object/
+23 object/npg_NPG.88.70.14
+19 object/npg_NPG.93.3
+14 nmnhvz_4089652
+23 object/siris_sil_775339
+7 object/
+18 object/nmah_496935
+23 object/siris_ari_291292
+21 object/nmnhvz_5026761
+23 object/siris_arc_229239
+21 object/siris_sic_5938
+21 object/saam_1977.43.2
+14 saam_1997.2A-B
+21 object/siris_ari_1608
+22 object/saam_2003.31A-X
+
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink
+144
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/russianlanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+30 thesauri/language/undetermined
+32 thesauri/language/germanlanguage
+31 thesauri/language/kiowalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/russianlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/ojibwalanguage
+32 thesauri/language/ojibwalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/siksikalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/germanlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+31 thesauri/language/kiowalanguage
+30 thesauri/language/undetermined
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/germanlanguage
+30 thesauri/language/undetermined
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/germanlanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/russianlanguage
+31 thesauri/language/kiowalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/siksikalanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/ojibwalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/siksikalanguage
+30 thesauri/language/undetermined
+32 thesauri/language/ojibwalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+31 thesauri/language/kiowalanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/russianlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+30 thesauri/language/undetermined
+30 thesauri/language/undetermined
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/russianlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/ojibwalanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+31 thesauri/language/kiowalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/germanlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/germanlanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/russianlanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/ojibwalanguage
+31 thesauri/language/kiowalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+32 thesauri/language/dakotalanguage
+33 thesauri/language/siksikalanguage
+33 thesauri/language/englishlanguage
+32 thesauri/language/dakotalanguage
+
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink
+200
+24 object/nmah_472453/title
+21 object/1961.171/title
+29 object/siris_arc_217603/title
+24 object/nmah_430767/title
+24 object/nmah_472453/title
+28 object/siris_sic_10056/title
+28 object/siris_jul_64891/title
+28 object/siris_sil_86070/title
+27 object/npg_NPG.80.183/title
+29 object/npg_NPG.2002.271/title
+29 object/siris_arc_209447/title
+29 object/siris_ari_447278/title
+28 object/saam_1965.16.25/title
+21 object/1961.135/title
+29 object/siris_ari_336228/title
+28 object/siris_arc_87459/title
+28 object/saam_1965.16.12/title
+28 object/siris_sil_73088/title
+25 object/hmsg_86.4504/title
+29 object/siris_arc_353515/title
+25 object/npg_NPG.93.3/title
+29 object/siris_arc_298126/title
+29 object/npg_NPG.2002.271/title
+26 object/npg_NPG.75.23/title
+27 object/saam_1960.11.3/title
+28 object/saam_1965.16.12/title
+25 object/hmsg_86.4504/title
+29 object/siris_arc_353515/title
+25 object/hmsg_86.4504/title
+28 object/siris_sil_33338/title
+27 object/saam_1977.43.2/title
+31 object/npm_1980.2493.5734/title
+29 object/siris_arc_201408/title
+28 object/siris_jul_64838/title
+24 object/nmah_430767/title
+27 object/siris_arc_2267/title
+26 object/npg_NPG.75.23/title
+29 object/siris_arc_217603/title
+25 object/npg_NPG.93.4/title
+29 object/siris_arc_319824/title
+28 object/siris_arc_84667/title
+25 object/hmsg_86.1490/title
+29 object/siris_arc_217308/title
+27 object/npg_NPG.84.147/title
+24 object/hmsg_66.786/title
+29 object/npg_NPG.2002.221/title
+29 object/siris_arc_211735/title
+29 object/siris_ari_291292/title
+29 object/siris_ari_447278/title
+25 object/SILSRO_86344/title
+28 object/siris_arc_84667/title
+29 object/siris_ari_291292/title
+27 object/siris_sic_5938/title
+29 object/siris_ari_447278/title
+25 object/SILSRO_86344/title
+29 object/siris_sil_529274/title
+25 object/npg_NPG.93.3/title
+25 object/SILSRO_86344/title
+28 object/siris_sic_10056/title
+30 object/npg_S_NPG.2013.45/title
+24 object/nmah_524528/title
+24 object/hmsg_66.786/title
+28 object/siris_sil_33338/title
+28 object/siris_sic_10061/title
+29 object/siris_arc_209447/title
+29 object/siris_sil_775339/title
+29 object/siris_sil_528161/title
+28 object/siris_sil_40344/title
+28 object/siris_arc_97116/title
+25 object/hmsg_66.2472/title
+31 object/fbr_item_MODSI3804/title
+28 object/saam_1965.16.12/title
+28 object/saam_1983.105.2/title
+25 object/SILSRO_86344/title
+21 object/1961.144/title
+29 object/siris_arc_319824/title
+29 object/siris_arc_353515/title
+27 object/siris_ari_1608/title
+27 object/siris_sic_5938/title
+29 object/siris_arc_217308/title
+29 object/siris_arc_353515/title
+29 object/siris_ari_214954/title
+28 object/saam_1965.16.25/title
+27 object/saam_1977.43.2/title
+25 object/npg_NPG.93.4/title
+24 object/nmah_496935/title
+29 object/npg_NPG.2002.221/title
+28 object/siris_arc_97116/title
+27 object/siris_sic_5938/title
+29 object/siris_ari_343772/title
+20 object/1995.15/title
+28 object/saam_2003.31A-X/title
+30 object/npm_2002.2029.115/title
+28 object/saam_1965.16.12/title
+29 object/siris_arc_353515/title
+29 object/npg_NPG.88.70.14/title
+28 object/npg_S_NPG.79.67/title
+24 object/nmah_496935/title
+28 object/siris_sil_71124/title
+29 object/siris_arc_298126/title
+31 object/npm_1980.2493.5734/title
+29 object/npg_NPG.2002.271/title
+25 object/npg_NPG.93.4/title
+28 object/siris_sic_10061/title
+27 object/siris_jul_1500/title
+27 object/siris_sic_9826/title
+29 object/siris_ari_447278/title
+29 object/siris_ari_343772/title
+29 object/siris_arc_211735/title
+21 object/1961.136/title
+28 object/siris_jul_64838/title
+29 object/siris_arc_217308/title
+25 object/SILSRO_86344/title
+29 object/siris_arc_353515/title
+25 object/hmsg_86.4504/title
+28 object/siris_sil_71124/title
+29 object/siris_ari_214954/title
+28 object/saam_1965.16.12/title
+27 object/npg_S_NPG.79.4/title
+27 object/siris_arc_2267/title
+27 object/npg_S_NPG.79.4/title
+27 object/saam_1997.2A-B/title
+24 object/nmah_515977/title
+24 object/nmah_524528/title
+27 object/siris_sic_5938/title
+27 object/siris_arc_1410/title
+28 object/siris_sil_86070/title
+31 object/npm_1980.2493.5734/title
+27 object/npg_NPG.80.183/title
+21 object/1961.147/title
+27 object/npg_NPG.84.147/title
+28 object/siris_sil_86070/title
+29 object/siris_arc_201408/title
+29 object/siris_sil_775339/title
+28 object/siris_sil_86070/title
+25 object/hmsg_86.1490/title
+21 object/1961.228/title
+25 object/npg_NPG.93.3/title
+31 object/fbr_item_MODSI3804/title
+28 object/siris_arc_88081/title
+29 object/siris_ari_291292/title
+29 object/siris_ari_336228/title
+28 object/siris_sic_10056/title
+27 object/saam_1977.43.2/title
+25 object/npg_NPG.93.4/title
+29 object/npg_NPG.88.70.14/title
+26 object/npg_NPG.75.23/title
+27 object/saam_1977.43.2/title
+27 object/siris_arc_1410/title
+28 object/saam_1965.16.12/title
+27 object/siris_arc_2267/title
+27 object/npg_NPG.84.147/title
+28 object/siris_sil_86070/title
+28 object/siris_arc_84667/title
+29 object/siris_arc_209447/title
+24 object/nmah_515977/title
+28 object/npg_S_NPG.79.67/title
+29 object/npg_NPG.88.70.14/title
+27 object/npg_S_NPG.79.4/title
+24 object/hmsg_66.786/title
+29 object/siris_ari_343772/title
+29 object/siris_arc_209447/title
+29 object/siris_arc_319824/title
+25 object/hmsg_86.1490/title
+27 object/npg_NPG.84.191/title
+29 object/siris_arc_353515/title
+28 object/saam_1983.105.2/title
+29 object/siris_arc_211735/title
+30 object/npm_2002.2029.115/title
+28 object/siris_sil_40344/title
+28 object/siris_sic_10056/title
+28 object/siris_sic_10061/title
+29 object/siris_arc_353515/title
+27 object/saam_1977.43.2/title
+27 object/saam_1960.11.3/title
+29 object/siris_arc_201408/title
+29 object/siris_arc_229239/title
+27 object/saam_1960.11.3/title
+29 object/npg_NPG.2002.221/title
+31 object/npm_1980.2493.5734/title
+27 object/siris_arc_2267/title
+29 object/siris_sil_529274/title
+29 object/siris_arc_217603/title
+21 object/1961.146/title
+24 object/nmah_515977/title
+25 object/npg_NPG.93.4/title
+29 object/siris_arc_229239/title
+29 object/siris_arc_353515/title
+25 object/hmsg_66.2472/title
+28 object/siris_arc_87459/title
+30 object/npm_2002.2029.115/title
+29 object/siris_arc_229239/title
+28 object/siris_sil_73088/title
+27 object/npg_NPG.80.183/title
+28 object/siris_arc_84667/title
+29 object/siris_arc_209447/title
+28 object/siris_arc_87459/title
+29 object/siris_arc_201408/title
+28 object/siris_sil_40344/title
+20 object/1986.36/title
+
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink
+9
+21 object/1961.135/image
+21 object/1961.144/image
+21 object/1961.171/image
+21 object/1961.147/image
+21 object/1961.136/image
+20 object/1995.15/image
+21 object/1961.228/image
+20 object/1986.36/image
+21 object/1961.146/image
+
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink
+9
+22 object/1961.228/series
+21 object/1995.15/series
+22 object/1961.147/series
+22 object/1961.135/series
+22 object/1961.146/series
+22 object/1961.171/series
+21 object/1986.36/series
+22 object/1961.136/series
+22 object/1961.144/series
+
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink
+27
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+15 thesauri/gender
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+20 thesauri/nationality
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+19 thesauri/profession
+
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink
+18
+62 person-institution/Charles M. Russell-1864-1926-American/death
+62 person-institution/Charles M. Russell-1864-1926-American/death
+62 person-institution/Frederic Remington-1861-1909-American/death
+57 person-institution/Joseph Stella-1877-1946-American/death
+62 person-institution/Charles M. Russell-1864-1926-American/death
+62 person-institution/Charles M. Russell-1864-1926-American/death
+72 person-institution/Frederick William MacMonnies-1863-1937-American/death
+62 person-institution/Charles M. Russell-1864-1926-American/death
+62 person-institution/Charles M. Russell-1864-1926-American/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+28 person-institution/---/death
+
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink
+18
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+57 person-institution/Joseph Stella-1877-1946-American/birth
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+62 person-institution/Frederic Remington-1861-1909-American/birth
+72 person-institution/Frederick William MacMonnies-1863-1937-American/birth
+62 person-institution/Charles M. Russell-1864-1926-American/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+28 person-institution/---/birth
+
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink
+9
+32 bibliography/1986.36/publication
+32 bibliography/1995.15/publication
+33 bibliography/1961.147/publication
+33 bibliography/1961.136/publication
+33 bibliography/1961.144/publication
+33 bibliography/1961.146/publication
+33 bibliography/1961.171/publication
+33 bibliography/1961.135/publication
+33 bibliography/1961.228/publication
+
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink
+9
+20 bibliography/1986.36
+21 bibliography/1961.171
+21 bibliography/1961.228
+21 bibliography/1961.144
+21 bibliography/1961.146
+20 bibliography/1995.15
+21 bibliography/1961.136
+21 bibliography/1961.135
+21 bibliography/1961.147
+
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink
+36
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+14 thesauri/place
+
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink
+27
+27 object/1986.36/production/n
+27 object/1995.15/production/n
+28 object/1961.228/production/n
+28 object/1961.136/production/n
+28 object/1961.147/production/n
+28 object/1961.144/production/n
+28 object/1961.171/production/n
+28 object/1961.146/production/n
+28 object/1961.135/production/n
+25 object/1986.36/production
+26 object/1961.135/production
+26 object/1961.136/production
+26 object/1961.146/production
+26 object/1961.144/production
+26 object/1961.228/production
+25 object/1995.15/production
+26 object/1961.171/production
+26 object/1961.147/production
+27 object/1986.36/production/2
+28 object/1961.144/production/2
+28 object/1961.171/production/2
+28 object/1961.146/production/2
+28 object/1961.135/production/2
+28 object/1961.228/production/2
+28 object/1961.136/production/2
+28 object/1961.147/production/2
+27 object/1995.15/production/2
+
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink
+36
+21 object/1961.144/depth
+21 object/1961.136/depth
+21 object/1961.135/depth
+21 object/1961.146/depth
+21 object/1961.147/depth
+21 object/1961.171/depth
+20 object/1986.36/depth
+21 object/1961.228/depth
+20 object/1995.15/depth
+21 object/1961.144/width
+20 object/1995.15/width
+20 object/1986.36/width
+21 object/1961.135/width
+21 object/1961.146/width
+21 object/1961.228/width
+21 object/1961.171/width
+21 object/1961.147/width
+21 object/1961.136/width
+21 object/1995.15/height
+22 object/1961.136/height
+22 object/1961.147/height
+22 object/1961.144/height
+22 object/1961.228/height
+22 object/1961.135/height
+21 object/1986.36/height
+22 object/1961.171/height
+22 object/1961.146/height
+21 object/1995.15/extent
+22 object/1961.228/extent
+22 object/1961.146/extent
+22 object/1961.136/extent
+22 object/1961.147/extent
+22 object/1961.144/extent
+21 object/1986.36/extent
+22 object/1961.135/extent
+22 object/1961.171/extent
+
+http://www.cidoc-crm.org/cidoc-crm/E5_Event|http://isi.edu/integration/karma/dev#classLink
+9
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+10 exhibition
+
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink
+9
+25 object/1961.136/concept/1
+25 object/1961.144/concept/1
+25 object/1961.146/concept/1
+24 object/1995.15/concept/1
+24 object/1986.36/concept/1
+25 object/1961.171/concept/1
+25 object/1961.135/concept/1
+25 object/1961.228/concept/1
+25 object/1961.147/concept/1
+
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink
+9
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+17 thesauri/mateiral
+
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink
+9
+25 object/1961.135/copywrite
+25 object/1961.144/copywrite
+24 object/1986.36/copywrite
+25 object/1961.228/copywrite
+24 object/1995.15/copywrite
+25 object/1961.136/copywrite
+25 object/1961.171/copywrite
+25 object/1961.146/copywrite
+25 object/1961.147/copywrite
+
+http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object|http://isi.edu/integration/karma/dev#classLink
+9
+7 object/
+7 object/
+7 object/
+7 object/
+7 object/
+7 object/
+7 object/
+7 object/
+7 object/
+
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink
+18
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+70 person-institution/Frederic Remington-1861-1909-American/appellation/1
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+80 person-institution/Frederick William MacMonnies-1863-1937-American/appellation/1
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+70 person-institution/Charles M. Russell-1864-1926-American/appellation/1
+65 person-institution/Joseph Stella-1877-1946-American/appellation/1
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+36 person-institution/---/appellation/2
+
+835
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 2.100336699822369
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink symbol_/ -6.117701561672591
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink symbol_- -2.1481481127833284
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink num_len_2 3.0712810472568153
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starts_with_char_b 16.208300706281292
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starts_with_char_i -2.1482254085661303
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -2.1910855502243054
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_8 0.6835861014431658
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_7 0.0116294853157794
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_5 -0.026359598146599494
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_4 0.492859940059345
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_3 0.07508918300202855
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_2 1.3232015428964987
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.5005067698159684
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_9 0.27441266531460273
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_id_birth 19.409315500886105
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -1.1110120712562392
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.6977817968904172
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 0.8877844890359815
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -1.3056364092765593
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 0.3436793249470451
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 1.282389939590434
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -0.37553699880577257
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 -0.6247176241231226
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_length_11 -3.0862831930126062
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -4.639533618497556
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_length_5 11.852900695862388
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 3.0712152831492356
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_id_person -2.1477304295876527
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink alpha_id_institution -2.1477304295876527
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 2.4622059649594132
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink num_len_3 2.462253840843958
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink starting_digit_6 0.6147133840023774
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 -1.1406207502079513
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.27493031098821585
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 1.4121806777522738
+http://www.cidoc-crm.org/cidoc-crm/E67_Birth|http://isi.edu/integration/karma/dev#classLink num_len_1 1.4121806777522738
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 2.8189141092057763
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink symbol_/ -4.125146334369926
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink symbol_- -0.5777577725851997
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -1.1717791535506372
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.36601543038594536
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 1.3449687302196058
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -0.4489061043620012
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 0.1384848973540466
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 0.31590018293889005
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -2.570162391898633
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.9055561840297766
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 0.5153784421952503
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 -1.0458000194229409
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_length_11 -0.6157585771050619
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 -0.2535344941795767
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 2.772919771623955
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 2.2218727023665363
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_id_death 13.558642792904593
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink num_len_3 2.2213792749640078
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink num_len_1 -0.2535344941795767
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink num_len_2 2.7724658454773183
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 10.259583920295233
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starts_with_char_i -0.576877818596173
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -0.5812429650237182
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_8 0.3926903956612242
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_7 -0.19823561003232226
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_6 0.49153475388297996
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_5 0.3129991395943973
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_4 0.4289437985935336
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_3 0.1981263300559391
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_2 2.7340963977832287
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_1 -1.480100319398615
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink starting_digit_9 -0.07480599411267451
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -3.248187151664551
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_length_5 9.745195158115479
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_id_person -0.5759266832152314
+http://www.cidoc-crm.org/cidoc-crm/E69_Death|http://isi.edu/integration/karma/dev#classLink alpha_id_institution -0.5759266832152314
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink symbol_/ 0.6998257662423509
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_nationality 4.039986771505002
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink starts_with_char_t 1.8271806645762572
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink starts_with_char_n 1.649070079489072
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink starts_with_char_A 2.662068343947718
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_American 3.3085448658863617
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_length_8 1.689236451340318
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_length_11 3.228978551736778
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_length_7 2.6861421999718216
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_thesauri 1.8271798927418148
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink capitalized_token 8.134047248134893
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink starts_with_char_C -2.4035233671628142
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_length_6 1.6820166797674778
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink starts_with_char_F -2.2089299881341327
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_French -2.18871742050122
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_Chilean 0.1477764379555339
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink symbol_? -3.809357397195763
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#columnSubClassOfLink alpha_id_Canadian -1.9046155350923077
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 -9.267981471253867
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_/ -15.76948179953514
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_- -0.7434773310590813
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 -1.6480432341735827
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -0.5050134842476515
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 8.751071587703287
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 -2.5189258182806133
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 -1.1391811882723493
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_11 -4.529097194553829
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 9.759557399124395
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 -1.2539509051319597
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink num_len_1 9.759557399124395
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink num_len_2 -1.5701032525480927
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 22.720496329424655
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_i -0.7245705625255214
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -3.1841135371250147
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_6 1.2001077227101458
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_4 0.2640347219987813
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_3 1.8210477389803965
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_2 -1.76338753623121
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.8832491473622546
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_9 2.6556884335857074
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_appellation 21.51886897363704
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -4.380793593036861
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_person -0.8964423884693935
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_institution -0.8964423884693935
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.3090946789500346
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_4 5.396440480556197
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_. 1.0271453326064857
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_, 7.721448152725532
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Aug 0.92891616800327
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Nov 0.92891616800327
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Lerner 0.8624748843505774
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Juley 1.6733127000755714
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink capitalized_token 12.981991638004478
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Sternberg 0.03318045603836396
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_b -0.7700175132660332
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_D 6.515822555476673
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 1.7296838964336183
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_J 3.9487565976344086
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_H 4.879599669658524
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_S 2.579147559115268
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Josef 0.8381225813337203
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Janet 0.8560394146936637
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_7 0.5668596463382592
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_5 0.8061230612372547
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_2 2.7401717534926275
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Son 1.6733127000755714
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_b 0.03318045603836396
+http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Harry 0.03318045603836396
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink symbol_/ 2.5350361499638585
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_ojibwalanguage 0.8836018274654162
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_undetermined 0.3496787222069194
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_e 1.264828096136286
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 1.195426517850183
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_l 6.117097064564924
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_k 0.5481093951734448
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_g -0.47625051833048593
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_dakotalanguage 1.62588682947267
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 2.5468487427533293
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_u 0.3376211478759897
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_r 0.23036436961620424
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_s -0.17281241387074042
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 0.17300009494010735
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_siksikalanguage 0.4992130984669048
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_length_8 2.5350091432235176
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_length_12 0.21978625679861163
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_length_13 0.49278502750184483
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_length_14 3.0957134947899703
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_length_15 1.3742608648528607
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 2.5468477901242492
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_englishlanguage 1.2708783680180442
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_language 6.117097064564924
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_russianlanguage 0.2533476275886505
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_germanlanguage 0.6863811615934361
+http://www.cidoc-crm.org/cidoc-crm/E56_Language|http://isi.edu/integration/karma/dev#classLink alpha_id_kiowalanguage 0.5481094297529515
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.39359569606871325
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.28867535469138544
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink symbol_/ 0.2830946564719489
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink num_len_8 0.28867612345874016
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink num_len_7 0.39358642907083524
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink alpha_id_object 0.6870040848011075
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.6359398625565041
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 -0.059732030910110985
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.10605280415647857
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 8.109140245168312
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 0.6870032174244884
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -0.06147828464334784
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.35036193362256296
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink alpha_id_image 8.506466128439806
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.00846625400954073
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 0.6680473171604033
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink alpha_length_6 0.2895830410098608
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink alpha_length_5 5.743282966954617
+http://www.cidoc-crm.org/cidoc-crm/E38_Image|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.47473742320742857
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.2660337589460361
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.6849687125788587
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink symbol_/ 0.9122288136052513
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink num_len_8 0.6849698125757967
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink num_len_7 0.26602880453820366
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.268458378910769
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.9878315012172569
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.07933317535664794
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 -0.11688122340778681
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 6.4562156752557565
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.2684532160763364
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink alpha_id_series 6.465018512521301
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.07936869593586096
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.18651865100544873
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.6834653686968777
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 0.9509566575689681
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.2661976507662387
+http://www.cidoc-crm.org/cidoc-crm/E78_Collection|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.9498024878172515
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink symbol__ 1.904809613239736
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.3894099592093222
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 1.1867835758661662
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink symbol_/ -2.7294087949491375
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.7705176030881352
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_title 15.178391430592749
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 0.45613007650512416
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 0.8169914434746607
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 0.20761188882206869
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink before_decimal_len_6 2.6332443300710864
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink before_decimal_len_0 -0.024454022792296477
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_saam 0.35487664670177577
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_npg -0.3251523987934775
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_siris 1.5199081201799975
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink num_len_6 2.632438694770855
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink num_len_5 0.5121028343795214
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink num_len_4 -0.9828668264269111
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink num_len_3 0.08058805223788533
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.6470465858072625
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 0.855064157235014
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 10.814828095702461
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 1.7734486851120235
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.5344097063543416
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_N -0.7965974387801579
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_length_6 0.23320158979980576
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_length_5 4.724324784763188
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_length_3 1.6080515757045302
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_NPG -0.3251523987934775
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_arc 1.175695897757733
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_n -0.3628627581000862
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starting_digit_3 6.536008968765399E-4
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.14183123302971762
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.1829656335538777
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_9 0.03627156594754699
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_h -0.0017828390165737034
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_sic 0.027070786741099688
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_length_4 -0.09809464796282641
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink after_decimal_len_1 0.05287899293621705
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.07598042927228996
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_5 0.003428635873535247
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_7 0.031065499556795096
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -0.00270616561622795
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_npm 0.003428635873535247
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_8 0.07505715726590075
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starts_with_char_f 0.01113868683534734
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starting_digit_8 0.04010816035298783
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starting_digit_4 0.0022617987304970606
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starting_digit_2 0.14456916005438405
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.01102505520835929
+http://www.cidoc-crm.org/cidoc-crm/E35_Title|http://isi.edu/integration/karma/dev#classLink alpha_id_ari 2.2259543982152435E-4
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.30151584878217225
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 1.1566533051064334
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.0792693898486614
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink num_len_8 1.1566533327859734
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink num_len_7 0.30151102806830843
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 1.2142546018887685
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.12005860874924812
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.12385151799943524
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink starts_with_char_b 1.5118529877025444
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink alpha_id_bibliography 1.5118671532845762
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 3.5831812625628716
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink alpha_id_publication 3.9739232316476416
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.11955896393127441
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.12436565192227642
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.8416972337292637
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink alpha_length_11 3.5956308399359647
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink alpha_length_12 1.511867119067981
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.445827274067929
+http://www.cidoc-crm.org/cidoc-crm/E65_Creation|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.200614196458666
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink starts_with_char_b 2.3211752309918228
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink alpha_id_bibliography 2.3211753487103888
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.6996508049319785
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 1.140699501270236
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.8375081165406177
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink num_len_8 1.140699569255875
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink num_len_7 0.6996413328495906
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.2977612029783494
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.40160485712389404
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 1.1393686728618615
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 1.3063325813156632
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink alpha_length_12 2.3211751874424302
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.29778054095944895
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.23622744602082316
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.840282657422802
+http://www.cidoc-crm.org/cidoc-crm/E31_Document|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.8390941836718355
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink starts_with_char_g 3.3728744556320343
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 2.8537676860534997
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink symbol_/ 2.759723427856078
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_id_gender 3.8844193133472977
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_length_8 2.8531229320413263
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 2.8537677171618947
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -0.26875699490264837
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_id_nationality 3.3802283128194626
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 3.3417859803646053
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_length_11 2.9439486798854606
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 2.737651622029778
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_length_10 2.8042648342963745
+http://www.w3.org/2008/05/skos#Concept|http://isi.edu/integration/karma/dev#classLink alpha_id_profession 3.842175609445452
+http://www.cidoc-crm.org/cidoc-crm/E5_Event|http://isi.edu/integration/karma/dev#classLink starts_with_char_e 4.481447833293349
+http://www.cidoc-crm.org/cidoc-crm/E5_Event|http://isi.edu/integration/karma/dev#classLink alpha_id_exhibition 4.48173462079395
+http://www.cidoc-crm.org/cidoc-crm/E5_Event|http://isi.edu/integration/karma/dev#classLink alpha_length_10 4.481415867551188
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_concept 2.7382378535110927
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.37350983718708786
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 2.5114892056528317
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.6600624891611853
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink symbol_/ 0.9905595172370172
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink num_len_8 0.6600627169779337
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink num_len_7 0.37348317460045505
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink num_len_1 2.5377627698351497
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.0327686651710168
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.7346627611519757
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.17169801936668408
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.12720504597693746
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 2.0437267451820817
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.0327680772714103
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.17161782513260387
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.19808216770055315
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 1.4963871865281788
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_7 2.738234977156544
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.0331175616215937
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.0048847656780895
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 2.5377627698351497
+http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.014972465128336
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.3534391628220503
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_nationality 2.8007112892876
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 2.955475996554729
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 1.234692258839537
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 3.982686209086011
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_American 4.1954810121190595
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_8 2.7338631559920494
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_11 1.4075224327363294
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 2.9554516379987255
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink capitalized_token 6.136378582206303
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_English 2.2658851253156675
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_E 2.265666294184018
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_7 0.026240314456798083
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.0749193308969855
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_C 4.25687919692724
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_D 0.10015064812821904
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_Dutch 0.681742576918368
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_5 0.6552869500563653
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink symbol_? 0.47074609658855554
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 3.5672665850954273
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink starts_with_char_F 0.6802712881114907
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_department 3.578247157060084
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_French 0.7449764279427402
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_length_10 3.340013413443075
+http://www.cidoc-crm.org/cidoc-crm/E74_Group|http://isi.edu/integration/karma/dev#classLink alpha_id_Chilean 1.602611461495074
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink starts_with_char_m 4.002153212849731
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink alpha_id_mateiral 4.002153513032932
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 3.0110426442166256
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink symbol_/ 3.007387286905528
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink alpha_length_8 3.0110425971786587
+http://www.cidoc-crm.org/cidoc-crm/E57_Material|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 3.011042644506526
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.3384630958942534
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.8165302777120438
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.1221577222420336
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink num_len_8 0.8165307765868529
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink num_len_7 0.33845780646360135
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.136138222304641
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.8900821684367385
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.13558318061222757
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.12931859723147715
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink alpha_id_copywrite 2.8258815234749455
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 2.8220179822100655
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.136137923282019
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.13557597352805714
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.2025362111284839
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink alpha_length_9 2.825854424624645
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.8150600714793141
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.1548829617046876
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.1344291788149896
+http://www.cidoc-crm.org/cidoc-crm/E30_Right|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.1540137994033102
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederic 0.2297391590680991
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_M 0.7932792530072897
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 -3.256421716520091
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Charles 0.7932792530072897
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.8576600952381719
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink num_len_5 1.6610154116612597
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_. 0.7932792530072897
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_- 1.9299252696427085
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_person 1.929981664392367
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Remington 0.2297391590680991
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Joseph 0.23603462216757898
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_b 5.465719226381646
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 1.9299810580281722
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_William 0.42733728743407656
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 1.8709114588811864
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.7932786093279531
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_C 0.793245106208439
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 1.686336284826272
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_J 0.23603428094501397
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_M 1.2205606859769913
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_F 0.6570713174446186
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_R 1.0229627683405544
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_S 0.23594816485278092
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_MacMonnies 0.42733728743415683
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_W 0.42733694449967896
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink starting_digit_- 1.686389758126951
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_American 1.6863891767026886
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_institution 1.929981664392367
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_birth 5.527638461732465
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederick 0.42733728743415683
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink capitalized_token 1.6728351797107888
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.06649434535388252
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.020085573482979336
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 -0.3248085987477901
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_8 1.6831540637593132
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_9 0.6449326668448793
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Russell 0.7932792530072897
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Stella 0.23603462216757898
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -0.7618712282271802
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 0.4269280411304613
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 0.3970055362315192
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_10 0.42450937420709095
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_11 1.8731679555538643
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_7 1.220606493013782
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.9218271227703996
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 1.6610154200195253
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_5 4.506164997986487
+http://www.cidoc-crm.org/cidoc-crm/E63_Beginning_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_1 0.7932406762720225
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 3.581688347646643
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink symbol_/ -1.6478481866718495
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink symbol_- 4.264996805127524
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink num_len_2 1.2978553459235374
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 4.266300836823105
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 4.265965694663788
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_8 -2.1182631573991553
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_7 -3.9490678349854296
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_6 -2.531948758135198
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_5 -0.4920709216289367
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_4 -1.1308423360150521
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_3 -2.0852913774772963
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_2 -1.418430895631476
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_1 -3.602598033039017
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_9 -2.9475151749119632
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -1.0522988586896707
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 -2.37547840256074
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -0.15468112257071587
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 0.47592714647049883
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -4.842391706890502
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 -0.07253283832425382
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 -1.6120339556845755
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_length_11 -0.8264469865459764
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_length_6 2.901511318100528
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 1.2979360392962977
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_id_person 4.266300862707096
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_id_institution 4.266300862707096
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 -5.025435395705165
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink num_len_3 0.8314603296056415
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 0.8317384548291473
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink num_len_1 0.9180155804389922
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 0.9180155804389922
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink num_len_5 1.2953693801623865
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 1.2563011317611454
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starting_digit_- 1.2563057100167105
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_id_American 1.256304755149653
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_length_8 1.2562221246934988
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 1.2953693849541776
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink capitalized_token -0.3539811906541218
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starts_with_char_R 0.3902953387034104
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 0.26763305718391567
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 -0.18877753245797413
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink num_len_4 -0.06143174045311815
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_id_Remington 0.4289829981411392
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink starts_with_char_F 0.4142118824951138
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_length_9 0.2260653729935492
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 -0.0614320563457516
+http://www.cidoc-crm.org/cidoc-crm/E21_Person|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederic 0.4289829981411392
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.22275338621361157
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.8288315327065319
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink symbol_/ 0.928287040881824
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink num_len_8 0.8288793963519006
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_id_production 4.317208703077013
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink num_len_7 0.22246797013507427
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.1627927743172806
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.9952319791334864
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 -0.015805504402734073
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.07227670871807225
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 4.199812870055475
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 3.8709102596751186
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.1625007311980013
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -0.01587259849022432
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.22381941629358157
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.7638536131167676
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_length_10 4.216264902493183
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.047901861610899
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.0811188706305017
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_length_1 3.871581938407028
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink starting_digit_1 0.9998880663825125
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink alpha_id_n 3.8718241837539744
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 0.27194502357154304
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink num_len_1 0.3064903399046892
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink starting_digit_2 0.3024141410850751
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.30666227365341614
+http://www.cidoc-crm.org/cidoc-crm/E12_Production|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 0.3064903399046892
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_id_depth 2.7826345484831467
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.7570513994392797
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.78693208247126
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.462758704593734
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink num_len_8 0.7869379734816967
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink num_len_7 0.7569393467179658
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_id_object 1.6475041421109204
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.7877020921246372
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_3 0.3986385369830202
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 0.35749353622831437
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 2.7806648409672516
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 1.6475031111427902
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.39851087814148695
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 0.35716488300035987
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 0.7769832459884914
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 1.5437575625917248
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.634105353854453
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_length_5 1.6703365727679733
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.5352290314391086
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starts_with_char_w 1.7255287913346609
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_id_width 1.7255287931914607
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starts_with_char_h 2.7880920555037436
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_id_height 2.788205370806757
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink starts_with_char_e 2.4950864853792076
+http://www.cidoc-crm.org/cidoc-crm/E54_Dimension|http://isi.edu/integration/karma/dev#classLink alpha_id_extent 2.4954665883509954
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 -1.0924896596983722
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink symbol_/ -4.425480962884235
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink symbol_- 0.8360241264464696
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink num_len_2 1.4478329787959896
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 12.975346353783976
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_b 5.064489974360477
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 0.7580035615753942
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 0.8938457882863768
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_birth 5.059720411617207
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 -1.480079668911181
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_5 -0.8096747975139335
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 0.5976446886299308
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_11 1.1417872343234288
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -1.4454605755200847
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_5 1.4673069469669948
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_4 11.263181799860764
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink before_decimal_len_2 -0.5132834270822529
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_person 1.137778817951665
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_institution 1.137778817951665
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_date 19.67419718646999
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_death 1.5410038601249818
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_9 0.13258791517747529
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 0.02481133087842588
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_6 -0.1618731209213963
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_7 0.0141654116953331
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink symbol_. 0.4031166238986537
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink capitalized_token 0.39987592132749816
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink num_len_5 0.4001652281486026
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 0.3995742871425484
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_Charles 0.4031166238986537
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -0.021223268373022495
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_5 -0.06494856870077803
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_Russell 0.4030367821363909
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 -9.960929481576562E-4
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink before_decimal_len_3 -0.07838820105177267
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink num_len_3 -0.07838860529170884
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_M 0.4030693701646696
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_8 -0.005503914103722821
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.4013367623154126
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 2.1086668019551003E-4
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starts_with_char_R 0.40192610261171624
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink starting_digit_1 -0.010140120888951798
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_8 -1.7554865002325604
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_id_publication -1.3450644141038902E-8
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 -2.0260608759510458E-5
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -0.0014092926728583419
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 -0.002027384840115487
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 0.2584688305031973
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 -9.103199720080544E-6
+http://www.cidoc-crm.org/cidoc-crm/E52_Time-Span|http://isi.edu/integration/karma/dev#classLink alpha_length_1 0.2578801057326658
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederic 0.19914306107428967
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_M 0.6078405465083704
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 -1.4797033736276797
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Charles 0.6078405465083704
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.7776215893523062
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink num_len_5 1.7300068461695468
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_. 0.6078405465083704
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink symbol_- 1.804201056068463
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_person 1.8044704956197282
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Remington 0.19914306107428967
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Joseph 0.4752325106690388
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 4.900152753973942
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 1.8044704078949076
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_William 0.45369149061714265
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 1.7874314160521083
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.6078383610689144
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_C 0.6078213140815438
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 1.7356387806079145
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_J 0.47522920563576354
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_M 1.0612656860725342
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_F 0.6528318192896018
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_R 0.8067173904766066
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_S 0.47514628909278905
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_MacMonnies 0.45369149061723907
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starts_with_char_W 0.4536881836461548
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink starting_digit_- 1.7359055263094905
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_American 1.735903550543605
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_institution 1.8044704956197282
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_death 4.904770950478027
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederick 0.45369149061723907
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink capitalized_token 1.731637237765354
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.7370668862472339
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.7402709924176081
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 0.19511735413016462
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_8 1.733842787316611
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_9 0.6498188606181436
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Russell 0.6078405465083704
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_id_Stella 0.4752325106690388
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 -1.9192837429763498
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 0.3859251956789796
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 0.5834542800228398
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_10 0.4499067698450548
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_11 1.787928050289735
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_7 1.0615219474717357
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.7955566764696185
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 1.7300068538846103
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_5 3.8900856577056357
+http://www.cidoc-crm.org/cidoc-crm/E64_End_of_Existence|http://isi.edu/integration/karma/dev#classLink alpha_length_1 0.6077789589710966
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_Individual 6.917839082741529
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_I 5.766950616697053
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink capitalized_token 4.1965677499926946
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_10 2.2366394178773605
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink symbol_/ 2.597341444728492
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 3.9063496327715685
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 3.906347427854957
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_8 3.1518881676182344
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_d 0.25056108225106793
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_c 0.6542555637724365
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -2.5830963774216364
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 6.226724615731384
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_objecttype 5.985323179047846
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_photographs 0.36035868526375464
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_11 -0.7715442239398691
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_7 2.241147160813919
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -1.915722506246774
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_4 2.477981090565455
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_u 2.3715272131855283
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_unit 2.394720881278114
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 2.7593013284966376E-6
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_15 0.37886220083708066
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_objtype 1.1163885489815447E-4
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_smithsonianstaffpublications 1.3267876283294505E-6
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_archivalmaterials 2.5835985618416436E-6
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_depth 0.3946588632864441
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink symbol_) 1.693796431499227E-7
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_w -0.00856029916527531
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_scrapbooks 1.6253248339164347E-7
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_coats 5.138261722497351E-7
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_gender 0.7576334381707541
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink symbol_( -6.648449650945692E-6
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_nationality 0.5359360235046975
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 0.07411273945294046
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 0.5376437874788723
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_width -0.0077919143744082575
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_g 0.0649966968456134
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_f 7.108918615383698E-8
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink starts_with_char_v 7.774682953561075E-8
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_sculpture 7.774682953561075E-8
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_profession -0.14100797438578722
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_22 1.1843048144370641E-7
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_9 -7.285872244730682E-4
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_Married 0.0017099764305042152
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_length_17 3.5781604859178557E-7
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_prints 7.455654511711717E-5
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_fieldnotes 7.599040863764857E-8
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_paintings 1.3365705125441438E-5
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_woodcuts 2.485860123094549E-5
+http://www.cidoc-crm.org/cidoc-crm/E55_Type|http://isi.edu/integration/karma/dev#classLink alpha_id_engravings 2.5023298458341653E-5
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 1.0510616291191401
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.556088268669919
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink num_len_2 1.4330992093996369
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 6.519225282727846
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_p -2.0060913488843046
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_length_6 -0.9926851310218983
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_length_2 21.928935107624397
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_id 24.787921253234135
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_institution -1.9304384111329742
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink symbol__ 4.921013539800699
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_identifier 17.84688783126878
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_siris 1.3958985903167127
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_object 3.491833543513687
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 1.990965552388509
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 2.9618864788835375
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_length_5 2.5198340833169235
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_length_10 2.3607358925400677
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink before_decimal_len_7 -0.0497164275819555
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_npg -0.03638418269026123
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink num_len_3 0.6861405125783968
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_n -0.3750365888339197
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_saam 0.6658249079300731
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_person -0.0801629325341864
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_NPG -0.005968709796832002
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 2.143117908920924
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 1.5843654589293834
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink before_decimal_len_4 0.9546652133100093
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink before_decimal_len_0 -0.010893534428707075
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_f 0.12424944654574342
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_auth 0.12479900307834733
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 1.405396490823601
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink symbol_- -0.0036255955556073107
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_4 -7.352296802098252E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_7 -1.2433741123485143E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.020944607656858186
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_hmsg -0.0033094812822849727
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 -5.037753056012594E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink unit_place_digit_0 -1.5787453846341855E-5
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_per 0.021459552603478548
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink before_decimal_len_6 9.454252316950942E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink num_len_6 6.076928955747574E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink num_len_4 -2.0062531579063915E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_S -1.9087564007606E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starts_with_char_N -0.07621187305230549
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starting_digit_3 7.445893684983854E-4
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starting_digit_2 0.021371222886514923
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink starting_digit_9 -5.032139180041783E-5
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_length_3 -0.055273525318456564
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_EACP 0.021459552603478548
+http://www.cidoc-crm.org/cidoc-crm/E42_Identifier|http://isi.edu/integration/karma/dev#classLink alpha_id_ari 2.3671886106118602E-4
+http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_object 2.8369908009640246
+http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 2.8369907540285166
+http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object|http://isi.edu/integration/karma/dev#classLink symbol_/ 2.8367453972944827
+http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_6 2.836703975169474
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink symbol__ 11.466597504407035
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 3.766229920829105
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.2805663047896176
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 1.996936433913643
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_0 0.8474867973564504
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_siris 3.093178628278018
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink num_len_6 1.4404457986249968
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink num_len_5 1.3755170638068308
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_object 3.629017170157737
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 3.4724488805415987
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_n 1.367592642940486
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_o 3.6238678848257804
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.421054890905836
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_5 -2.3970825638003954
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_3 3.08265161454825
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_s 2.0939899472234327
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_2 0.9295562525047141
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starting_digit_1 1.5377256346501804
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_saam 1.0878637732377212
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_arc 0.07972455363092638
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_1 0.6502606329132289
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_1 0.12016728828214594
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.4270516034397689
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 0.6052637333002271
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starting_digit_2 -0.26342085055222597
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 -0.03601128753951656
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_6 0.15393774604730942
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink before_decimal_len_7 0.030508684871449317
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_1 -0.6396181713768622
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_NPG -0.12456021582271641
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_3 0.664681831983009
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink after_decimal_len_4 0.026729733433662823
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink num_len_3 -0.04312289351736629
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_2 -0.010181011027450037
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_4 -0.004953698651028824
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink tenth_place_digit_7 -0.007417429108655168
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_f -0.021738996335209253
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_B 0.0017544111626960077
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_E -0.021335095924512666
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starts_with_char_N -0.04400182186649761
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_sil 0.0021778412916041057
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_sic -0.01059678394003802
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink starting_digit_4 -7.474506484691985E-4
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_exp 3.1789240913623746E-9
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink unit_place_digit_8 -9.171629363711331E-4
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_length_4 0.00928964207651929
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_nmnhanthropology -9.178930871123232E-6
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_SILSRO -1.2184727569961704E-4
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_npg -0.042803782322100366
+http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object|http://isi.edu/integration/karma/dev#classLink alpha_id_jul 1.3875657299123872E-6
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink starts_with_char_t 2.4238981649752036
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 3.1166976422391612
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink symbol_/ 2.4111260831886328
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink alpha_length_8 2.4238968202223443
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink alpha_id_thesauri 2.4238981817337044
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink alpha_length_5 4.036447827787525
+http://www.cidoc-crm.org/cidoc-crm/E53_Place|http://isi.edu/integration/karma/dev#classLink alpha_id_place 4.145644315469299
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederic 0.19409392171697734
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_M 0.8158025027592299
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink after_decimal_len_0 1.4645107982665007
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Charles 0.8158025027592299
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_/ 1.5275758217647775
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink num_len_5 1.506307489530802
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_. 0.8158025027592299
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink symbol_- 1.4682843959229506
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_person 1.528770852916114
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink num_len_1 2.8493539384218933
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Remington 0.19409392171697734
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_a 2.756111791082064
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_i 1.5287708373404714
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_p 1.5284754910259308
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink all_capitalized_token 0.8126816807326267
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_C 0.7830891683737269
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_A 1.5247214856404734
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_J 0.2835363153620708
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_M 1.0470906631453207
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_F 0.48293218962095674
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_R 0.9523462665516439
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_S 0.2864622333524228
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_MacMonnies 0.2888383267495634
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starts_with_char_W 0.2858987134524011
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_- 1.5817791815959816
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_1 2.086045992378132
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_American 1.5822710533460485
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_institution 1.528770852916114
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_appellation 2.914557552290621
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Frederick 0.2888383267495634
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink capitalized_token 1.362750452249157
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_6 1.0425720726080445
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_7 0.4863492282021422
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_9 0.18512407412522794
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_8 1.582259776762401
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_9 0.39028165993927644
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Russell 0.8158025027592299
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_id_Stella 0.28647592639017533
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_1 2.0110852313637135
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_3 0.2865410374437118
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_4 0.7909240201664854
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_10 0.2885364530717135
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_11 1.528754991433246
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_7 1.1011431751115006
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_6 1.5245743226671762
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink before_decimal_len_5 1.5063074976843156
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink before_decimal_len_1 2.8493539384218933
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink alpha_length_1 0.8126816818638133
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink starting_digit_2 0.41778320308664524
+http://www.cidoc-crm.org/cidoc-crm/E41_Appellation|http://isi.edu/integration/karma/dev#classLink unit_place_digit_2 0.5358955372012899
