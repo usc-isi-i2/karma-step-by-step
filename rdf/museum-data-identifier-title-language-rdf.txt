@@ -1,0 +1,700 @@
+<object/siris_jul_64838/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_229239> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_229239/identifier> .
+<object/siris_jul_64891> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_jul_64891/title> .
+<object/saam_1997.2A-B> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1997.2A-B/title> .
+<object/siris_arc_217603/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.75.23/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_1965.16.25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.84.147/title> <http://www.w3.org/2000/01/rdf-schema#label> "Andy Warhol" .
+<object/siris_jul_64891/title> <http://www.w3.org/2000/01/rdf-schema#label> "Galarina [painting] / (photographed by Peter A. Juley & Son)" .
+<object/nmnhvz_4026636> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4026636/identifier> .
+<object/npm_1980.2493.5734/title> <http://www.w3.org/2000/01/rdf-schema#label> "6c John Wesley Powell single" .
+<object/nmnhvz_4085970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N768 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_arc_201408/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_1965.16.12> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1965.16.12/title> .
+<object/siris_ari_343772/title> <http://www.w3.org/2000/01/rdf-schema#label> "Braves' Dance, Ojibwa, (painting)" .
+<object/nmnhvz_4353854/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_515977/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N712 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/siris_arc_217603/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_217603" .
+_:crm_E73_Information_Object1_N816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/auth_exp_fbr_EACE0023> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/auth_exp_fbr_EACE0023/identifier> .
+<object/npg_NPG.84.147/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_472453> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmah_472453/identifier> .
+<object/npg_S_NPG.79.4/title> <http://www.w3.org/2000/01/rdf-schema#label> "Ulysses S. Grant" .
+<object/saam_1983.105.2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/NMAI_267364> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/NMAI_267364/identifier> .
+<object/siris_arc_217308/title> <http://www.w3.org/2000/01/rdf-schema#label> "Doris Mable Cochran Papers, circa 1891-1968" .
+_:crm_E73_Information_Object1_N738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/npg_NPG.2002.221/title> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Calder Self-Portrait" .
+<object/siris_arc_209447/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N820 <http://www.w3.org/2000/01/rdf-schema#label> "Ojibwa language" .
+_:crm_E73_Information_Object1_N766 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+_:crm_E73_Information_Object1_N644 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/undetermined> .
+<object/siris_arc_88081/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_88081" .
+<object/nmnhanthropology_8420529> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhanthropology_8420529/identifier> .
+<object/nmnhanthropology_8093073/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/auth_exp_fbr_EACE0023/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_524528/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N648 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/auth_exp_fbr_EACE0023/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "auth_exp_fbr_EACE0023" .
+<object/npg_NPG.75.23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_40344> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_40344/identifier> .
+<object/nmnhvz_4089652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.93.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1983.105.2/title> <http://www.w3.org/2000/01/rdf-schema#label> "Autoportrait" .
+_:crm_E73_Information_Object1_N790 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/siksikalanguage> .
+<object/saam_1965.16.12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_ari_447278/title> <http://www.w3.org/2000/01/rdf-schema#label> "Departure of Hiawatha, (painting)" .
+<object/nmnhvz_4089652/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4089652" .
+<object/siris_sil_528161/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhvz_4049267/title> <http://www.w3.org/2000/01/rdf-schema#label> "Anas crecca carolinensis" .
+<object/siris_ari_291292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/auth_exp_fbr_EACE0024/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_775339/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_87459/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/auth_exp_fbr_EACE0038> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/auth_exp_fbr_EACE0038/title> .
+<object/siris_arc_84667/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_sic_9826/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sic_9826" .
+<object/siris_ari_343772/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_343772" .
+<object/npg_NPG.80.183/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_319824> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N710 .
+<object/siris_ari_1608> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_1608/identifier> .
+<object/siris_arc_84667/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/auth_per_fbr_EACP748> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/auth_per_fbr_EACP748/title> .
+<object/nmah_496935/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.2002.271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_66.2472/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.93.3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.93.3/identifier> .
+<object/siris_sil_33338> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N818 .
+<object/siris_sil_775339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_217603> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_217603/identifier> .
+<object/nmnhvz_4353854/title> <http://www.w3.org/2000/01/rdf-schema#label> "Anas platyrhynchos" .
+_:crm_E73_Information_Object1_N950 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/siris_sil_86070> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_86070/identifier> .
+_:crm_E73_Information_Object1_N646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_arc_298126/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_1410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhanthropology_8420533/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/nmah_430767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_86070> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N768 .
+_:crm_E73_Information_Object1_N714 <http://www.w3.org/2000/01/rdf-schema#label> "Russian language" .
+<object/siris_sil_86070/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_86070" .
+<object/siris_ari_343772/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_229239> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_229239/title> .
+<object/siris_jul_64838> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_jul_64838/title> .
+<object/npg_NPG.93.4/title> <http://www.w3.org/2000/01/rdf-schema#label> "Man Ray" .
+<object/siris_sil_33338> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N816 .
+<object/siris_arc_217603> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_217603/title> .
+<object/siris_ari_447278/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_447278" .
+<object/npg_S_NPG.2013.45/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhanthropology_8420533/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_430767/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmah_430767" .
+<object/npg_NPG.2002.271/title> <http://www.w3.org/2000/01/rdf-schema#label> "David Hockney Self-Portrait" .
+<object/nmah_524528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_ari_336228/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_336228" .
+<object/nmah_430767/title> <http://www.w3.org/2000/01/rdf-schema#label> "Ulysses S. Grant's U.S. Military Academy Cadet Coatee" .
+<object/nmnhvz_4085970/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_1410> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_1410/identifier> .
+<object/siris_sil_528161> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_528161/title> .
+<object/siris_jul_1500/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/hmsg_66.786/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_97116/title> <http://www.w3.org/2000/01/rdf-schema#label> "Group of Chippewa, Klamath, Sioux, Nez Perce, and Seneca Indians 1902" .
+<object/saam_1965.16.12/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1965.16.12" .
+<object/siris_arc_2267/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_4085970/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_2003.31A-X> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_2003.31A-X/title> .
+<object/nmnhvz_4049267> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4049267/identifier> .
+<object/nmah_524528/title> <http://www.w3.org/2000/01/rdf-schema#label> "Keys to the Abraham Lincoln Conspirators Prison Cells" .
+<object/siris_sic_10061/title> <http://www.w3.org/2000/01/rdf-schema#label> "John Wesley Powell & Native American" .
+<object/siris_sic_5938/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_1960.11.3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_229239/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_528161> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_528161/identifier> .
+<object/npg_NPG.2002.221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_2267/title> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Congress collection of American Indian Photographs 1860s-1930s 1890s-1920s" .
+<object/auth_exp_fbr_EACE0024/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "auth_exp_fbr_EACE0024" .
+<object/siris_jul_64891> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_jul_64838> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_jul_64838/identifier> .
+<object/npg_NPG.93.4/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.93.4" .
+_:crm_E73_Information_Object1_N816 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+_:crm_E73_Information_Object1_N710 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/germanlanguage> .
+<thesauri/language/ojibwalanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/auth_exp_fbr_EACE0023/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_201408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sic_10056/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_298126/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_298126" .
+<object/saam_1977.43.2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/hmsg_66.2472/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "hmsg_66.2472" .
+<object/hmsg_86.4504/title> <http://www.w3.org/2000/01/rdf-schema#label> "Portrait of Salvador Dali" .
+<object/nmnhvz_4039020> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4039020/identifier> .
+<object/siris_sil_528161> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N1436 .
+<object/siris_sil_529274> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N620 .
+<object/nmah_524528/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/auth_exp_fbr_EACE0024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhvz_4039020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_211735/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.93.3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmah_515977> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmah_515977/title> .
+<object/nmnhvz_4085970/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4085970" .
+<object/auth_per_fbr_EACP748/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "auth_per_fbr_EACP748" .
+<object/NMAI_267364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_528161> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1997.2A-B/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_4353854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N646 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/siris_ari_291292/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhanthropology_8420529> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhanthropology_8420529/title> .
+<object/saam_1960.11.3/title> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln" .
+<object/siris_sic_10061/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.88.70.14/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/fbr_item_MODSI3804> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/fbr_item_MODSI3804/title> .
+<object/nmah_430767/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.88.70.14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sic_5938> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sic_5938/identifier> .
+<object/npg_S_NPG.2013.45/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N788 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/siris_sil_775339> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_775339/identifier> .
+_:crm_E73_Information_Object1_N740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/nmnhvz_4026636/title> <http://www.w3.org/2000/01/rdf-schema#label> "Chen caerulescens" .
+<object/hmsg_66.786/title> <http://www.w3.org/2000/01/rdf-schema#label> "Mobile (Motorized Mobile)" .
+<object/nmah_472453> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmah_472453/title> .
+_:crm_E73_Information_Object1_N670 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/npg_S_NPG.79.67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1965.16.25> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1965.16.25/identifier> .
+<object/siris_jul_64891/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_jul_64891" .
+<object/siris_arc_87459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_40344/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_88081/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_71124> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N646 .
+<object/siris_jul_1500> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_jul_1500/title> .
+<object/nmnhvz_4049267/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_86070/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhanthropology_8420533/title> <http://www.w3.org/2000/01/rdf-schema#label> "Painted Deerskin Fragmentary" .
+<object/siris_arc_353515/title> <http://www.w3.org/2000/01/rdf-schema#label> "American Warriors: Songs for Indian Veterans [sound recording]" .
+<object/siris_ari_214954/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.75.23/title> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Calder" .
+<object/nmnhanthropology_8093073/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhanthropology_8093073" .
+<object/hmsg_86.4504/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_496935/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_472453/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N670 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/siris_sic_9826/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_86070/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/hmsg_66.786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_ari_336228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/auth_per_fbr_EACP748/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/saam_1965.16.25/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhanthropology_8093073/title> <http://www.w3.org/2000/01/rdf-schema#label> "Stone Grater - Bipod" .
+<object/hmsg_86.1490/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "hmsg_86.1490" .
+<object/siris_ari_214954/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_1983.105.2/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sic_10061/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sic_10061" .
+<object/nmnhvz_5026761> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_5026761/identifier> .
+<object/siris_arc_298126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_211735> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_211735/identifier> .
+_:crm_E73_Information_Object1_N818 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/npg_NPG.84.147> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.84.147/title> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N738 .
+<object/siris_sic_10056/title> <http://www.w3.org/2000/01/rdf-schema#label> "John Wesley Powell" .
+<object/nmnhvz_4353854/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/auth_exp_fbr_EACE0038/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sic_5938/title> <http://www.w3.org/2000/01/rdf-schema#label> "Secretary Alexander Wetmore" .
+_:crm_E73_Information_Object1_N1272 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/siris_arc_97116/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.88.70.14/title> <http://www.w3.org/2000/01/rdf-schema#label> "Marcel Duchamp" .
+<object/siris_sic_9826/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhanthropology_8093073/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_217308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.80.183/title> <http://www.w3.org/2000/01/rdf-schema#label> "Ulysses S. Grant" .
+_:crm_E73_Information_Object1_N668 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/nmnhvz_4026636/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_71124> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_71124/title> .
+<object/npg_S_NPG.2013.45> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_S_NPG.2013.45/identifier> .
+<object/auth_exp_fbr_EACE0024/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_97116> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_97116/identifier> .
+<object/saam_2003.31A-X/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_2003.31A-X" .
+<object/SILSRO_86344/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhbotany_2527239> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhbotany_2527239/title> .
+<object/auth_exp_fbr_EACE0024> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/auth_exp_fbr_EACE0024/identifier> .
+<object/nmnhvz_4085970> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4085970/title> .
+<object/auth_exp_fbr_EACE0038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1983.105.2> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1983.105.2/title> .
+<object/npg_NPG.84.147> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.84.147/identifier> .
+<object/SILSRO_86344/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "SILSRO_86344" .
+<object/nmah_496935> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmah_496935/identifier> .
+<object/nmah_496935/title> <http://www.w3.org/2000/01/rdf-schema#label> "Lincoln Funeral Train Flag" .
+<object/hmsg_66.2472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_66.786> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/hmsg_66.786/identifier> .
+<object/siris_sil_73088> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N668 .
+<object/siris_sic_10056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.84.147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_775339> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_775339/title> .
+<object/siris_sil_86070> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_86070/title> .
+<object/saam_1965.16.12/title> <http://www.w3.org/2000/01/rdf-schema#label> "Playfulness" .
+<object/auth_exp_fbr_EACE0038> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/auth_exp_fbr_EACE0038/identifier> .
+<object/auth_per_fbr_EACP748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhanthropology_8420529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_86.4504/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "hmsg_86.4504" .
+<object/nmnhvz_4039020/title> <http://www.w3.org/2000/01/rdf-schema#label> "Anas acuta" .
+<object/nmnhvz_4049267/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4049267" .
+<object/fbr_item_MODSI3804/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "fbr_item_MODSI3804" .
+<object/saam_1965.16.12/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N690 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/siris_sic_5938/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sic_5938" .
+<object/npg_NPG.80.183/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.84.191/title> <http://www.w3.org/2000/01/rdf-schema#label> "Man Ray" .
+_:crm_E73_Information_Object1_N710 <http://www.w3.org/2000/01/rdf-schema#label> "German language" .
+<object/siris_ari_1608/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_2267/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_33338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_319824> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N712 .
+<object/siris_sil_529274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.84.191> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.84.191/identifier> .
+<object/siris_sic_5938/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N714 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/russianlanguage> .
+<object/npg_NPG.84.191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sic_10061> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sic_10061/identifier> .
+_:crm_E73_Information_Object1_N820 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/ojibwalanguage> .
+<object/siris_ari_336228/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/hmsg_66.2472> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/hmsg_66.2472/identifier> .
+<object/siris_arc_209447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_ari_447278> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_447278/title> .
+<object/siris_sil_775339/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_775339" .
+<object/siris_arc_353515/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_353515" .
+<object/siris_arc_298126> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_298126/identifier> .
+<object/nmnhvz_4089652/title> <http://www.w3.org/2000/01/rdf-schema#label> "Anas crecca carolinensis" .
+<object/auth_per_fbr_EACP26/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N818 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+_:crm_E73_Information_Object1_N644 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/nmnhanthropology_8420529/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhanthropology_8420529" .
+<object/siris_sil_73088> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_73088/identifier> .
+<object/auth_per_fbr_EACP26> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/auth_per_fbr_EACP26/identifier> .
+<object/siris_arc_209447/title> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Calder papers, 1926-1967" .
+<object/siris_arc_319824> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_319824/title> .
+<object/siris_sil_40344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_2267> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_2267/title> .
+<object/npg_S_NPG.79.67/title> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Wetmore" .
+<object/siris_sil_33338/title> <http://www.w3.org/2000/01/rdf-schema#label> "Travels through the interior parts of North-America, in the years 1766, 1767, and 1768 / by J. Carver, esq., captain of a company of provincial troops during the late war with France ; illustrated with copper plates" .
+<object/hmsg_86.4504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhvz_4089652/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/saam_2003.31A-X> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_2003.31A-X/identifier> .
+<object/siris_arc_209447> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_209447/title> .
+<object/hmsg_86.1490/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_S_NPG.2013.45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_S_NPG.2013.45> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_S_NPG.2013.45/title> .
+<object/auth_per_fbr_EACP26/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/saam_1965.16.12> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1965.16.12/identifier> .
+<object/npg_NPG.80.183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1997.2A-B> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1997.2A-B/identifier> .
+<object/siris_sil_71124/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<thesauri/language/englishlanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/siris_arc_298126/title> <http://www.w3.org/2000/01/rdf-schema#label> "Maj. Gen. Grant [engraving; collecting card]" .
+<object/siris_arc_319824/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_87459> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_87459/identifier> .
+<object/siris_arc_229239/title> <http://www.w3.org/2000/01/rdf-schema#label> "Alexander Wetmore Papers, 1916-1975" .
+_:crm_E73_Information_Object1_N712 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+_:crm_E73_Information_Object1_N742 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/kiowalanguage> .
+_:crm_E73_Information_Object1_N1272 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/npg_S_NPG.79.67/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/SILSRO_86344> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/SILSRO_86344/identifier> .
+<object/siris_ari_447278> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_447278/identifier> .
+<object/npg_NPG.88.70.14> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.88.70.14/identifier> .
+<object/siris_sil_528161/title> <http://www.w3.org/2000/01/rdf-schema#label> "Biographical notice of the late Archibald R. Marvine / by J.W. Powell" .
+<object/siris_sil_33338/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_33338" .
+<object/siris_arc_88081> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_88081/title> .
+<object/auth_exp_fbr_EACE0023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhvz_4353854/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4353854" .
+_:crm_E73_Information_Object1_N738 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/siris_arc_1410/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_217308/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_S_NPG.79.4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_298126/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_33338/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_353515/title> .
+<object/siris_ari_1608/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_1608" .
+<object/siris_sic_9826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhbotany_2527239> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhbotany_2527239/identifier> .
+<object/npm_1980.2493.5734/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npm_1980.2493.5734" .
+<object/nmnhvz_4026636/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4026636" .
+<object/nmnhvz_4049267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_66.786/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "hmsg_66.786" .
+_:crm_E73_Information_Object1_N768 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/nmnhbotany_2527239/title> <http://www.w3.org/2000/01/rdf-schema#label> "Agave schottii Engelm." .
+<object/siris_ari_343772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.2002.221> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.2002.221/title> .
+_:crm_E73_Information_Object1_N790 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_arc_97116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/npg_NPG.2002.271/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_4049267/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_87459/title> <http://www.w3.org/2000/01/rdf-schema#label> "Letter in English and Dakota" .
+<object/siris_sil_40344/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/SILSRO_86344/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_ari_214954/title> <http://www.w3.org/2000/01/rdf-schema#label> "Hiawatha, (painting)" .
+<object/siris_arc_211735/title> <http://www.w3.org/2000/01/rdf-schema#label> "Milton Avery papers, 1926-1982, bulk 1950-1982" .
+<object/siris_arc_319824> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N714 .
+<object/nmnhvz_5026761> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_5026761/title> .
+<object/npg_NPG.2002.221/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.2002.221" .
+<object/siris_arc_84667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/auth_per_fbr_EACP748> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/auth_per_fbr_EACP748/identifier> .
+<object/npg_NPG.2002.221> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.2002.221/identifier> .
+<object/saam_1965.16.25> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1965.16.25/title> .
+<object/nmnhvz_5026761/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N740 .
+<object/auth_per_fbr_EACP748/title> <http://www.w3.org/2000/01/rdf-schema#label> "Powell, John Wesley, 1834-1902" .
+<object/siris_arc_2267> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_2267/identifier> .
+<object/npg_NPG.93.3/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/saam_1977.43.2> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1977.43.2/title> .
+<object/NMAI_267364/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "NMAI_267364" .
+<object/siris_arc_201408> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_201408/title> .
+<object/npg_NPG.2002.271/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.2002.271" .
+<object/npm_1980.2493.5734> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npm_1980.2493.5734/title> .
+<object/hmsg_86.4504> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/hmsg_86.4504/identifier> .
+<object/nmnhanthropology_8420533> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhanthropology_8420533/identifier> .
+<object/nmnhanthropology_8420533> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhanthropology_8420533/title> .
+<object/siris_arc_217603/title> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph H. Hirshhorn Papers, circa 1926-1982 and undated" .
+<object/siris_arc_87459/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_319824/title> <http://www.w3.org/2000/01/rdf-schema#label> "Manischewitz Folk Music Library [sound recording]" .
+_:crm_E73_Information_Object1_N1436 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/auth_per_fbr_EACP26/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "auth_per_fbr_EACP26" .
+<object/npg_NPG.2002.271> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.2002.271/title> .
+<object/siris_arc_88081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.84.191> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.84.191/title> .
+<object/npg_NPG.75.23/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.75.23" .
+<object/saam_1997.2A-B/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1997.2A-B" .
+<object/siris_arc_211735> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_211735/title> .
+<object/saam_1997.2A-B/title> <http://www.w3.org/2000/01/rdf-schema#label> "Double Entrance" .
+<object/nmnhvz_4026636/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.75.23/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N1436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_jul_64838/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_33338> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_33338/identifier> .
+<object/siris_jul_64891> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_jul_64891/identifier> .
+_:crm_E73_Information_Object1_N742 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/nmah_515977/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmah_515977" .
+<object/siris_arc_84667> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_84667/identifier> .
+<object/nmnhvz_4089652> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4089652/identifier> .
+<object/npg_S_NPG.79.4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_86.1490> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/hmsg_86.1490/title> .
+<object/siris_ari_343772> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_343772/identifier> .
+<object/siris_jul_1500/title> <http://www.w3.org/2000/01/rdf-schema#label> "Marcel Duchamp [photograph] / (photographed by Peter A. Juley & Son)" .
+<object/saam_1960.11.3> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/saam_1960.11.3/title> .
+<object/siris_arc_209447/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_209447" .
+<object/siris_sil_33338/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_88081> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_88081/identifier> .
+_:crm_E73_Information_Object1_N816 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/npg_NPG.93.3/title> <http://www.w3.org/2000/01/rdf-schema#label> "Man Ray" .
+<object/siris_arc_1410/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_33338> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_33338/title> .
+<object/siris_sil_40344> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N1272 .
+_:crm_E73_Information_Object1_N1436 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/siris_ari_336228> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_336228/title> .
+<object/SILSRO_86344> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/SILSRO_86344/title> .
+<object/siris_jul_64891/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_496935/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmah_496935" .
+<object/nmnhvz_4085970/title> <http://www.w3.org/2000/01/rdf-schema#label> "Anas crecca carolinensis" .
+<object/siris_ari_447278/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhbotany_2527239/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/hmsg_66.786> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/hmsg_66.786/title> .
+<object/npm_1980.2493.5734/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_86070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1960.11.3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_515977/title> <http://www.w3.org/2000/01/rdf-schema#label> "Ulysses S. Grant's chair from Appomattox" .
+<thesauri/language/russianlanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/siris_arc_87459/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_87459" .
+<object/saam_1965.16.25/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_430767> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmah_430767/title> .
+<object/saam_1977.43.2/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1977.43.2" .
+<object/npg_NPG.84.147/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.84.147" .
+<object/siris_sil_528161/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_528161" .
+<object/siris_arc_211735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npm_2002.2029.115/title> <http://www.w3.org/2000/01/rdf-schema#label> "37c Andy Warhol single" .
+_:crm_E73_Information_Object1_N620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/saam_1965.16.12/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_524528> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmah_524528/identifier> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N792 .
+<object/nmnhvz_4039020/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_40344> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_40344/title> .
+<object/hmsg_66.786/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhanthropology_8093073> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhanthropology_8093073/identifier> .
+<object/auth_exp_fbr_EACE0024/title> <http://www.w3.org/2000/01/rdf-schema#label> "J. W. Powell Survey - Colorado River Exploring Expedition (1868)" .
+<object/nmah_430767/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.80.183> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.80.183/title> .
+_:crm_E73_Information_Object1_N766 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/npm_2002.2029.115> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npm_2002.2029.115/identifier> .
+<object/nmah_430767> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmah_430767/identifier> .
+<object/siris_ari_214954/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_214954" .
+<object/nmnhvz_4049267> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4049267/title> .
+<object/npg_S_NPG.79.4/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_S_NPG.79.4" .
+<object/NMAI_267364/title> <http://www.w3.org/2000/01/rdf-schema#label> "Painting" .
+_:crm_E73_Information_Object1_N792 <http://www.w3.org/2000/01/rdf-schema#label> "Kiowa language" .
+<object/npg_NPG.80.183> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.80.183/identifier> .
+<object/saam_1997.2A-B/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sic_10061/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.88.70.14/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sic_9826> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sic_9826/identifier> .
+<object/nmah_515977> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmah_515977/identifier> .
+<object/saam_2003.31A-X/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/fbr_item_MODSI3804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_217308> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_217308/title> .
+<object/siris_arc_201408/title> <http://www.w3.org/2000/01/rdf-schema#label> "Schwab Garden [slide]" .
+_:crm_E73_Information_Object1_N690 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/siris_sic_10056> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sic_10056/title> .
+<object/saam_1977.43.2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1997.2A-B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_S_NPG.79.67/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_ari_336228/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.88.70.14/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.88.70.14" .
+<object/nmah_472453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/auth_per_fbr_EACP26/title> <http://www.w3.org/2000/01/rdf-schema#label> "Wetmore, Alexander, 1886-1978" .
+<object/saam_2003.31A-X/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_319824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_S_NPG.2013.45/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_S_NPG.2013.45" .
+<object/siris_sil_71124> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N648 .
+_:crm_E73_Information_Object1_N710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/npg_NPG.75.23> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.75.23/identifier> .
+<object/fbr_item_MODSI3804/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_jul_64838/title> <http://www.w3.org/2000/01/rdf-schema#label> "Homage to Duchamp [art work] / (photographed by Peter A. Juley & Son)" .
+<object/nmnhbotany_2527239/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmah_524528/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmah_524528" .
+<object/siris_sil_73088/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_73088" .
+_:crm_E73_Information_Object1_N740 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/siksikalanguage> .
+<object/siris_sil_71124/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/saam_1983.105.2/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1983.105.2" .
+<object/auth_exp_fbr_EACE0023/title> <http://www.w3.org/2000/01/rdf-schema#label> "The J.W. Powell Survey (1871-1894)" .
+<object/auth_exp_fbr_EACE0038/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "auth_exp_fbr_EACE0038" .
+<object/npg_S_NPG.79.4> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_S_NPG.79.4/title> .
+<object/siris_sic_9826> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sic_9826/title> .
+<object/siris_ari_1608/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_319824/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sic_9826/title> <http://www.w3.org/2000/01/rdf-schema#label> "Doris M. Cochran, 1954" .
+<object/siris_arc_217308/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_217308" .
+<object/nmnhanthropology_8093073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_jul_1500> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_jul_1500/identifier> .
+<object/auth_exp_fbr_EACE0023> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/auth_exp_fbr_EACE0023/title> .
+<object/fbr_item_MODSI3804> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/fbr_item_MODSI3804/identifier> .
+<thesauri/language/kiowalanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/saam_2003.31A-X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/hmsg_86.1490> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/hmsg_86.1490/identifier> .
+<object/siris_sil_40344/title> <http://www.w3.org/2000/01/rdf-schema#label> "Cold-blooded vertebrates: part I. Fishes, by Samuel F. Hildebrand. parts II and III. Amphibians and reptiles, by Charles W. Gilmore and Doris M. Cochran" .
+<object/siris_ari_291292/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_ari_291292" .
+_:crm_E73_Information_Object1_N620 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/nmnhanthropology_8420529/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_ari_1608> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_1608/title> .
+<object/siris_arc_1410/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_1410" .
+<object/siris_ari_1608/title> <http://www.w3.org/2000/01/rdf-schema#label> "General Ulysses Simpson Grant, (sculpture)" .
+<object/auth_exp_fbr_EACE0024> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/auth_exp_fbr_EACE0024/title> .
+<object/nmnhvz_5026761/title> <http://www.w3.org/2000/01/rdf-schema#label> "Serrasalmus spilopleura" .
+<object/siris_arc_84667/title> <http://www.w3.org/2000/01/rdf-schema#label> "James E. Taylor scrapbook of the American West 1863-1900" .
+_:crm_E73_Information_Object1_N670 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_sil_71124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1977.43.2/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/auth_per_fbr_EACP26> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/auth_per_fbr_EACP26/title> .
+<object/npg_NPG.75.23> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.75.23/title> .
+<object/saam_1960.11.3/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N818 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/saam_1960.11.3> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1960.11.3/identifier> .
+<object/siris_sil_33338> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N820 .
+_:crm_E73_Information_Object1_N648 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/englishlanguage> .
+<object/saam_1983.105.2/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.84.191/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.84.191" .
+<object/siris_arc_217603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_NPG.93.4> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.93.4/title> .
+<object/npg_NPG.88.70.14> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.88.70.14/title> .
+<object/hmsg_86.4504> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/hmsg_86.4504/title> .
+<object/siris_jul_64838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N950 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/saam_2003.31A-X/title> <http://www.w3.org/2000/01/rdf-schema#label> "Snails Space with Vari-Lites, \"Painting as Performance\"" .
+<object/siris_sic_10061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_88081/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_209447/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_ari_291292/title> <http://www.w3.org/2000/01/rdf-schema#label> "The Council of War, (sculpture)" .
+<object/saam_1965.16.25/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1965.16.25" .
+<object/npm_2002.2029.115/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_73088/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_529274> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_529274/title> .
+<object/auth_exp_fbr_EACE0038/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_73088> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sil_73088/title> .
+<object/nmah_515977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N668 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/hmsg_66.2472/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.84.147/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_472453/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmah_472453" .
+<object/siris_ari_343772/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_NPG.93.3> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_NPG.93.3/title> .
+<object/NMAI_267364/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhvz_4026636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1977.43.2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1977.43.2/identifier> .
+<object/nmnhvz_4039020/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npg_S_NPG.79.4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_S_NPG.79.4/identifier> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N788 .
+<object/siris_arc_319824/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_319824" .
+<object/nmah_472453/title> <http://www.w3.org/2000/01/rdf-schema#label> "Confederate Officer's Frock Coat" .
+<object/siris_sic_10056/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sic_10056" .
+<object/siris_arc_84667/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_84667" .
+<object/siris_sil_73088> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N670 .
+<object/siris_arc_211735/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_211735" .
+<object/siris_arc_97116> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_97116/title> .
+<object/nmnhvz_4039020/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_4039020" .
+<object/nmnhbotany_2527239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_97116/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_97116" .
+<object/SILSRO_86344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_229239/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmah_496935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_529274> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_529274/identifier> .
+<object/npg_NPG.2002.221/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_ari_336228> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_336228/identifier> .
+<object/siris_arc_97116/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N620 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/npg_NPG.93.4> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.93.4/identifier> .
+<object/siris_arc_201408/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_201408" .
+_:crm_E73_Information_Object1_N950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<thesauri/language/germanlanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/nmnhvz_4026636> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4026636/title> .
+<object/siris_sil_529274/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_298126> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_298126/title> .
+<object/nmnhanthropology_8093073> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhanthropology_8093073/title> .
+_:crm_E73_Information_Object1_N644 <http://www.w3.org/2000/01/rdf-schema#label> "Undetermined" .
+<object/hmsg_86.1490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1965.16.25/title> <http://www.w3.org/2000/01/rdf-schema#label> "Flight of Night" .
+<object/npm_2002.2029.115> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npm_2002.2029.115/title> .
+<object/siris_arc_201408> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_201408/identifier> .
+_:crm_E73_Information_Object1_N740 <http://www.w3.org/2000/01/rdf-schema#label> "Siksika language" .
+<object/nmah_515977/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.93.3/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.93.3" .
+<object/siris_jul_1500/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_jul_1500" .
+<object/siris_arc_319824> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_319824/identifier> .
+<object/npg_NPG.93.4/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_jul_64838/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_jul_64838" .
+<object/siris_sil_529274/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_529274" .
+<object/siris_sil_73088/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_209447> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_209447/identifier> .
+<object/nmnhvz_4039020> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4039020/title> .
+<object/saam_1977.43.2/title> <http://www.w3.org/2000/01/rdf-schema#label> "Sally Avery with Still Life" .
+<object/siris_sil_71124/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_71124" .
+<object/siris_arc_211735/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/auth_per_fbr_EACP26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_S_NPG.2013.45/title> <http://www.w3.org/2000/01/rdf-schema#label> "Deluxe Box, images of Andy Warhol filiming Marcel Duchamp at the opening of his Cordier & Ekstrom Exhibition" .
+<object/siris_arc_353515/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_229239> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmah_496935> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmah_496935/title> .
+<object/siris_sic_5938> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sic_5938/title> .
+<object/hmsg_86.1490/title> <http://www.w3.org/2000/01/rdf-schema#label> "Objet-Dard" .
+<object/siris_arc_201408/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_2267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmnhvz_4089652> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4089652/title> .
+<object/npg_NPG.2002.271> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_NPG.2002.271/identifier> .
+<object/npg_S_NPG.79.67> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npg_S_NPG.79.67/identifier> .
+<thesauri/language/siksikalanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/siris_sil_71124> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sil_71124/identifier> .
+<object/nmnhvz_4089652/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_4353854> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmnhvz_4353854/title> .
+<object/saam_1983.105.2> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/saam_1983.105.2/identifier> .
+<object/hmsg_86.4504/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+_:crm_E73_Information_Object1_N790 <http://www.w3.org/2000/01/rdf-schema#label> "Siksika language" .
+<object/siris_sil_86070/title> <http://www.w3.org/2000/01/rdf-schema#label> "Dakota odowan : Hymns in the Dakota language, with tunes / Edited by S. R. Riggs" .
+<object/npm_1980.2493.5734> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/npm_1980.2493.5734/identifier> .
+<object/npg_S_NPG.79.4/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/NMAI_267364/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_1410> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_1410/title> .
+<object/siris_ari_214954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/nmah_524528> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/nmah_524528/title> .
+<object/nmnhvz_5026761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N788 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/dakotalanguage> .
+<object/npg_NPG.2002.271/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_ari_1608> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_73088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/saam_1960.11.3/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "saam_1960.11.3" .
+<object/siris_ari_214954> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_214954/identifier> .
+_:crm_E73_Information_Object1_N788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+_:crm_E73_Information_Object1_N690 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_sil_775339> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N950 .
+<object/nmah_472453/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhbotany_2527239/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhbotany_2527239" .
+<object/siris_sil_40344/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_sil_40344" .
+<object/nmnhanthropology_8420529/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/npg_NPG.2002.221/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_87459> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_87459/title> .
+<object/npg_NPG.80.183/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_NPG.80.183" .
+<object/siris_sil_529274/title> <http://www.w3.org/2000/01/rdf-schema#label> "Abraham Lincoln toni kin, qa Aesop tawoyake kin [microform] = Life of Abraham Lincoln and Aesop's fables / James Garvie" .
+<object/siris_sic_5938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+_:crm_E73_Information_Object1_N646 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+_:crm_E73_Information_Object1_N1272 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/siris_sil_775339/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_jul_1500/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhvz_4353854> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4353854/identifier> .
+<object/siris_ari_447278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_jul_64891/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/npm_1980.2493.5734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_sil_73088/title> <http://www.w3.org/2000/01/rdf-schema#label> "Everyday Lakota : an English-Sioux dictionary for beginners / General editor, Joseph S. Karol, assistant editor, Stephen L. Rozman" .
+<object/siris_arc_217308/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_4085970> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/nmnhvz_4085970/identifier> .
+<object/siris_arc_84667> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_arc_84667/title> .
+<object/siris_sic_10056/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N742 .
+_:crm_E73_Information_Object1_N648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/fbr_item_MODSI3804/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_sil_775339/title> <http://www.w3.org/2000/01/rdf-schema#label> "Marcel Duchamp, Man Ray : 50 years of alchemy / essay by Chrissie Iles" .
+<thesauri/language/dakotalanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/auth_per_fbr_EACP748/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<thesauri/language/undetermined> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E56_Language> .
+<object/siris_ari_291292> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_291292/title> .
+<object/hmsg_86.1490/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N790 .
+<object/hmsg_66.2472/title> <http://www.w3.org/2000/01/rdf-schema#label> "Ordinary Picture" .
+_:crm_E73_Information_Object1_N738 <http://www.w3.org/2000/01/rdf-schema#label> "Dakota language" .
+<object/auth_exp_fbr_EACE0038/title> <http://www.w3.org/2000/01/rdf-schema#label> "Expedition to Guajira Peninsula, Colombia (1941)" .
+<object/siris_arc_217308> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_217308/identifier> .
+<object/siris_arc_87459> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N690 .
+<object/siris_ari_291292/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_arc_229239/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_229239" .
+<object/npg_NPG.93.4/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+_:crm_E73_Information_Object1_N742 <http://www.w3.org/2000/01/rdf-schema#label> "Kiowa language" .
+<object/siris_sic_10056> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_sic_10056/identifier> .
+<object/npm_2002.2029.115/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npm_2002.2029.115" .
+<object/npm_2002.2029.115/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_jul_1500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_ari_447278/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/SILSRO_86344/title> <http://www.w3.org/2000/01/rdf-schema#label> "Description of a new species of agamid lizard from the Malay Peninsula" .
+<object/siris_arc_1410/title> <http://www.w3.org/2000/01/rdf-schema#label> "Standing Holy" .
+<object/siris_sil_71124/title> <http://www.w3.org/2000/01/rdf-schema#label> "A Dakota-English dictionary. Edited by James Owen Dorsey" .
+<object/siris_sic_10061> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_sic_10061/title> .
+_:crm_E73_Information_Object1_N768 <http://www.w3.org/2000/01/rdf-schema#label> "English language" .
+<object/siris_arc_353515> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_arc_353515/identifier> .
+<object/npg_NPG.93.3/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhanthropology_8420529/title> <http://www.w3.org/2000/01/rdf-schema#label> "Coat, Skin, Painted" .
+<object/npm_2002.2029.115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_88081/title> <http://www.w3.org/2000/01/rdf-schema#label> "\"Scalp of Hole-in-the-day, Sioux warrior\"" .
+<object/nmnhvz_5026761/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/fbr_item_MODSI3804/title> <http://www.w3.org/2000/01/rdf-schema#label> "Travelog of 1962-1963 South American trip" .
+<object/siris_sil_71124> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N644 .
+<object/siris_ari_336228/title> <http://www.w3.org/2000/01/rdf-schema#label> "Century Art Wall, (sculpture)" .
+<object/siris_arc_2267/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "siris_arc_2267" .
+<object/siris_ari_343772> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_343772/title> .
+<object/npm_1980.2493.5734/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_ari_214954> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/siris_ari_214954/title> .
+<object/hmsg_66.2472> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/hmsg_66.2472/title> .
+<object/siris_sil_529274/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/nmnhanthropology_8420533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/siris_arc_353515/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/siris_ari_291292> <http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by> <object/siris_ari_291292/identifier> .
+<object/siris_arc_217603/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_sil_86070> <http://www.cidoc-crm.org/cidoc-crm/P128_carries> _:crm_E73_Information_Object1_N766 .
+<object/npg_NPG.84.191/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+<object/nmnhvz_5026761/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhvz_5026761" .
+<object/npg_S_NPG.79.67> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/npg_S_NPG.79.67/title> .
+<object/nmnhanthropology_8420533/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "nmnhanthropology_8420533" .
+<object/npg_NPG.84.191/identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
+<object/siris_arc_353515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<object/npg_S_NPG.79.67/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "npg_S_NPG.79.67" .
+_:crm_E73_Information_Object1_N668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object> .
+<object/NMAI_267364> <http://www.cidoc-crm.org/cidoc-crm/P102_has_title> <object/NMAI_267364/title> .
+_:crm_E73_Information_Object1_N792 <http://www.cidoc-crm.org/cidoc-crm/P72_has_language> <thesauri/language/kiowalanguage> .
+<object/siris_sil_528161/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E35_Title> .
+
