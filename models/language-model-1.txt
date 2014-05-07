@@ -1,0 +1,47 @@
+@prefix edan-ont: <http://collection.edan.si.edu/ontologies/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dim: <http://data.nasa.gov/qudt/owl/dimension#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix skos: <http://www.w3.org/2008/05/skos#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix qudt: <http://data.nasa.gov/qudt/owl/qudt#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix quantity: <http://data.nasa.gov/qudt/owl/quantity#> .
+@prefix unit: <http://data.nasa.gov/qudt/owl/unit#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix oecc: <http://www.oegov.org/models/common/cc#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node18n9j3cvlx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "language.json" ;
+	km-dev:modelPublicationTime "1399407621161"^^xsd:long ;
+	km-dev:modelVersion "1.0" ;
+	km-dev:hasWorksheetHistory "[{\"tags\":[\"Transformation\"],\"inputParameters\":[{\"name\":\"newColumnName\",\"value\":\"language_uri\",\"type\":\"other\"},{\"name\":\"transformationCode\",\"value\":\"return languageUri()\",\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"doc\"},{\"columnName\":\"indexedStructured\"},{\"columnName\":\"language\"},{\"columnName\":\"values\"}],\"type\":\"hNodeId\"},{\"name\":\"errorDefaultValue\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SubmitPythonTransformationCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"metaPropertyName\",\"value\":\"isUriOfClass\",\"type\":\"other\"},{\"name\":\"metaPropertyValue\",\"value\":\"http://www.w3.org/2008/05/skos#Concept\",\"type\":\"other\"},{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"doc\"},{\"columnName\":\"indexedStructured\"},{\"columnName\":\"language\"},{\"columnName\":\"language_uri\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"isPrimary\":true,\"FullType\":\"http://isi.edu/integration/karma/dev#classLink\",\"DomainLabel\":\"skos:Concept1 (add)\",\"DomainId\":\"http://www.w3.org/2008/05/skos#Concept\",\"DomainUri\":\"http://www.w3.org/2008/05/skos#Concept\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetMetaPropertyCommand\"},{\"tags\":[\"Modeling\"],\"inputParameters\":[{\"name\":\"hNodeId\",\"value\":[{\"columnName\":\"doc\"},{\"columnName\":\"indexedStructured\"},{\"columnName\":\"language\"},{\"columnName\":\"values\"}],\"type\":\"hNodeId\"},{\"name\":\"SemanticTypesArray\",\"value\":[{\"isPrimary\":true,\"FullType\":\"http://www.w3.org/2008/05/skos#prefLabel\",\"DomainLabel\":\"skos:Concept1\",\"DomainId\":\"http://www.w3.org/2008/05/skos#Concept1\",\"DomainUri\":\"http://www.w3.org/2008/05/skos#Concept1\"}],\"type\":\"other\"},{\"name\":\"worksheetId\",\"value\":\"W\",\"type\":\"worksheetId\"},{\"name\":\"isKey\",\"value\":false,\"type\":\"other\"},{\"name\":\"trainAndShowUpdates\",\"value\":false,\"type\":\"other\"},{\"name\":\"rdfLiteralType\",\"value\":\"\",\"type\":\"other\"}],\"commandName\":\"SetSemanticTypeCommand\"}]" .
+
+km-dev:TriplesMap_1 a rr:TriplesMap .
+
+_:node18n9j3cvlx1 km-dev:hasTriplesMap km-dev:TriplesMap_1 .
+
+_:node18n9j3cvlx2 rr:tableName "language.json" .
+
+km-dev:TriplesMap_1 rr:logicalTable _:node18n9j3cvlx2 ;
+	rr:subjectMap _:node18n9j3cvlx3 .
+
+_:node18n9j3cvlx3 km-dev:alignmentNodeId "http://www.w3.org/2008/05/skos#Concept1" ;
+	rr:class skos:Concept ;
+	rr:template "{[\"doc\",\"indexedStructured\",\"language\",\"language_uri\"]}" ;
+	a km-dev:steinerTreeRootNode .
+
+_:node18n9j3cvlx5 rr:predicate skos:prefLabel .
+
+_:node18n9j3cvlx6 rr:column "[\"doc\",\"indexedStructured\",\"language\",\"values\"]" .
+
+_:node18n9j3cvlx5 rr:objectMap _:node18n9j3cvlx6 .
+
+km-dev:TriplesMap_1 rr:predicateObjectMap _:node18n9j3cvlx5 .

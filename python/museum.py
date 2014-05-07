@@ -9,6 +9,9 @@ def recordIdentifierUri():
 def titleUri():
 	return recordUri()+"/title"
 
+def informationObjectUri():
+	return recordUri()+"/informationobject"
+
 def languageUri():
 	if getValue("values"):
   		return "thesauri/language/"+getValue("values").lower().replace(' ','')
